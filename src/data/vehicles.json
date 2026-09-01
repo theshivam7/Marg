@@ -1,0 +1,2532 @@
+[
+  {
+    "vehicleId": "VEH_001",
+    "plateNumber": "KA01AB1234",
+    "vehicleType": "Car",
+    "color": "White",
+    "demoLabel": "Daily commute"
+  },
+  {
+    "vehicleId": "VEH_002",
+    "plateNumber": "KA03MN4582",
+    "vehicleType": "Car",
+    "color": "Black",
+    "demoLabel": "Watchlisted"
+  },
+  {
+    "vehicleId": "VEH_003",
+    "plateNumber": "KA05TR9021",
+    "vehicleType": "Truck",
+    "color": "Blue",
+    "demoLabel": "Night ORR truck"
+  },
+  {
+    "vehicleId": "VEH_004",
+    "plateNumber": "KA02CX7719",
+    "vehicleType": "Motorcycle",
+    "color": "Red",
+    "demoLabel": "Repeated commuter"
+  },
+  {
+    "vehicleId": "VEH_005",
+    "plateNumber": "KA04QZ6118",
+    "vehicleType": "Taxi",
+    "color": "Silver",
+    "demoLabel": "Unusual loop"
+  },
+  {
+    "vehicleId": "VEH_006",
+    "plateNumber": "KA09ZX4481",
+    "vehicleType": "Car",
+    "color": "Grey",
+    "demoLabel": "Plate duplication"
+  },
+  {
+    "vehicleId": "VEH_007",
+    "plateNumber": "KA01MX4821",
+    "vehicleType": "Scooter",
+    "color": "White",
+    "demoLabel": "OCR mismatch"
+  },
+  {
+    "vehicleId": "VEH_008",
+    "plateNumber": "KA51PR2048",
+    "vehicleType": "Van",
+    "color": "Silver",
+    "demoLabel": "Low-confidence OCR"
+  },
+  {
+    "vehicleId": "VEH_009",
+    "plateNumber": "KA41UV8830",
+    "vehicleType": "Car",
+    "color": "Black",
+    "demoLabel": "Second watchlist sighting"
+  },
+  {
+    "vehicleId": "VEH_010",
+    "plateNumber": "KA02JL1447",
+    "vehicleType": "Motorcycle",
+    "color": "Blue",
+    "demoLabel": "Iblur U-turn pattern"
+  },
+  {
+    "vehicleId": "VEH_011",
+    "plateNumber": "KA02JC7944",
+    "vehicleType": "Car",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_012",
+    "plateNumber": "KA41BZ5386",
+    "vehicleType": "Motorcycle",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_013",
+    "plateNumber": "KA05BA1847",
+    "vehicleType": "Car",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_014",
+    "plateNumber": "KA05MO5707",
+    "vehicleType": "Scooter",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_015",
+    "plateNumber": "KA09GM9854",
+    "vehicleType": "Scooter",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_016",
+    "plateNumber": "KA51RX5925",
+    "vehicleType": "Car",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_017",
+    "plateNumber": "KA41IP6227",
+    "vehicleType": "Motorcycle",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_018",
+    "plateNumber": "KA01WH8772",
+    "vehicleType": "Car",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_019",
+    "plateNumber": "KA53RT8360",
+    "vehicleType": "Taxi",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_020",
+    "plateNumber": "KA05AP0989",
+    "vehicleType": "Car",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_021",
+    "plateNumber": "KA41JV0554",
+    "vehicleType": "Motorcycle",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_022",
+    "plateNumber": "KA51SI1608",
+    "vehicleType": "Car",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_023",
+    "plateNumber": "KA09TF0381",
+    "vehicleType": "Motorcycle",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_024",
+    "plateNumber": "KA53DQ4011",
+    "vehicleType": "Scooter",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_025",
+    "plateNumber": "KA04IT5607",
+    "vehicleType": "Motorcycle",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_026",
+    "plateNumber": "KA53BP5961",
+    "vehicleType": "Scooter",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_027",
+    "plateNumber": "KA53JJ2138",
+    "vehicleType": "Car",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_028",
+    "plateNumber": "KA03JV4327",
+    "vehicleType": "Car",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_029",
+    "plateNumber": "KA41RK5958",
+    "vehicleType": "Auto",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_030",
+    "plateNumber": "KA05RR3732",
+    "vehicleType": "Truck",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_031",
+    "plateNumber": "KA51NP4535",
+    "vehicleType": "Van",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_032",
+    "plateNumber": "KA02MS0829",
+    "vehicleType": "Scooter",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_033",
+    "plateNumber": "KA04TK5652",
+    "vehicleType": "Auto",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_034",
+    "plateNumber": "KA01NM8437",
+    "vehicleType": "Car",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_035",
+    "plateNumber": "KA03IB4147",
+    "vehicleType": "Bus",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_036",
+    "plateNumber": "KA03JN6243",
+    "vehicleType": "Car",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_037",
+    "plateNumber": "KA03IN9513",
+    "vehicleType": "Motorcycle",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_038",
+    "plateNumber": "KA05KY7299",
+    "vehicleType": "Car",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_039",
+    "plateNumber": "KA09VI9846",
+    "vehicleType": "Scooter",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_040",
+    "plateNumber": "KA09VN2031",
+    "vehicleType": "Bus",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_041",
+    "plateNumber": "KA04VB0087",
+    "vehicleType": "Car",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_042",
+    "plateNumber": "KA04GZ3964",
+    "vehicleType": "Motorcycle",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_043",
+    "plateNumber": "KA04VK5048",
+    "vehicleType": "Motorcycle",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_044",
+    "plateNumber": "KA09ZI3917",
+    "vehicleType": "Taxi",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_045",
+    "plateNumber": "KA05OS0186",
+    "vehicleType": "Car",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_046",
+    "plateNumber": "KA04FC1838",
+    "vehicleType": "Scooter",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_047",
+    "plateNumber": "KA53KL5576",
+    "vehicleType": "Bus",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_048",
+    "plateNumber": "KA02OG8043",
+    "vehicleType": "Car",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_049",
+    "plateNumber": "KA05KE1084",
+    "vehicleType": "Van",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_050",
+    "plateNumber": "KA05RN8051",
+    "vehicleType": "Car",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_051",
+    "plateNumber": "KA03CZ3168",
+    "vehicleType": "Scooter",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_052",
+    "plateNumber": "KA03AT7742",
+    "vehicleType": "Taxi",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_053",
+    "plateNumber": "KA01XX6321",
+    "vehicleType": "Motorcycle",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_054",
+    "plateNumber": "KA02WY8054",
+    "vehicleType": "Auto",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_055",
+    "plateNumber": "KA01FU4587",
+    "vehicleType": "Motorcycle",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_056",
+    "plateNumber": "KA02IB0945",
+    "vehicleType": "Truck",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_057",
+    "plateNumber": "KA53LY1137",
+    "vehicleType": "Truck",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_058",
+    "plateNumber": "KA51OV0827",
+    "vehicleType": "Auto",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_059",
+    "plateNumber": "KA41QC6374",
+    "vehicleType": "Motorcycle",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_060",
+    "plateNumber": "KA09WN8201",
+    "vehicleType": "Van",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_061",
+    "plateNumber": "KA05WX7529",
+    "vehicleType": "Scooter",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_062",
+    "plateNumber": "KA41IH4716",
+    "vehicleType": "Auto",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_063",
+    "plateNumber": "KA01ST5219",
+    "vehicleType": "Motorcycle",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_064",
+    "plateNumber": "KA02UJ1340",
+    "vehicleType": "Motorcycle",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_065",
+    "plateNumber": "KA41LV4938",
+    "vehicleType": "Motorcycle",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_066",
+    "plateNumber": "KA04VJ3910",
+    "vehicleType": "Van",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_067",
+    "plateNumber": "KA04SL3952",
+    "vehicleType": "Van",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_068",
+    "plateNumber": "KA05NL2738",
+    "vehicleType": "Scooter",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_069",
+    "plateNumber": "KA01CH6554",
+    "vehicleType": "Van",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_070",
+    "plateNumber": "KA41SD5518",
+    "vehicleType": "Car",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_071",
+    "plateNumber": "KA01JA3169",
+    "vehicleType": "Car",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_072",
+    "plateNumber": "KA51TX5231",
+    "vehicleType": "Motorcycle",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_073",
+    "plateNumber": "KA05VL1252",
+    "vehicleType": "Taxi",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_074",
+    "plateNumber": "KA02PG7292",
+    "vehicleType": "Bus",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_075",
+    "plateNumber": "KA41VW8475",
+    "vehicleType": "Car",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_076",
+    "plateNumber": "KA53OZ2635",
+    "vehicleType": "Motorcycle",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_077",
+    "plateNumber": "KA53WC1149",
+    "vehicleType": "Car",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_078",
+    "plateNumber": "KA09LX5964",
+    "vehicleType": "Bus",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_079",
+    "plateNumber": "KA09ZH3359",
+    "vehicleType": "Scooter",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_080",
+    "plateNumber": "KA53AA0899",
+    "vehicleType": "Motorcycle",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_081",
+    "plateNumber": "KA05MB4789",
+    "vehicleType": "Van",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_082",
+    "plateNumber": "KA01ER6209",
+    "vehicleType": "Motorcycle",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_083",
+    "plateNumber": "KA01BZ7685",
+    "vehicleType": "Auto",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_084",
+    "plateNumber": "KA41ZE9885",
+    "vehicleType": "Scooter",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_085",
+    "plateNumber": "KA41SJ5951",
+    "vehicleType": "Motorcycle",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_086",
+    "plateNumber": "KA01WP0240",
+    "vehicleType": "Truck",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_087",
+    "plateNumber": "KA04JT1818",
+    "vehicleType": "Car",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_088",
+    "plateNumber": "KA04HS5772",
+    "vehicleType": "Scooter",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_089",
+    "plateNumber": "KA51CM8082",
+    "vehicleType": "Scooter",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_090",
+    "plateNumber": "KA02VA8015",
+    "vehicleType": "Scooter",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_091",
+    "plateNumber": "KA04QX6364",
+    "vehicleType": "Taxi",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_092",
+    "plateNumber": "KA01FW4075",
+    "vehicleType": "Scooter",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_093",
+    "plateNumber": "KA05RY4358",
+    "vehicleType": "Scooter",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_094",
+    "plateNumber": "KA51KY8085",
+    "vehicleType": "Taxi",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_095",
+    "plateNumber": "KA05MA7549",
+    "vehicleType": "Truck",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_096",
+    "plateNumber": "KA41FB3306",
+    "vehicleType": "Car",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_097",
+    "plateNumber": "KA51PO3363",
+    "vehicleType": "Car",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_098",
+    "plateNumber": "KA09VZ9056",
+    "vehicleType": "Car",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_099",
+    "plateNumber": "KA03GV8209",
+    "vehicleType": "Taxi",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_100",
+    "plateNumber": "KA03BA9247",
+    "vehicleType": "Motorcycle",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_101",
+    "plateNumber": "KA02SD0403",
+    "vehicleType": "Scooter",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_102",
+    "plateNumber": "KA51MR1677",
+    "vehicleType": "Van",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_103",
+    "plateNumber": "KA51CS4414",
+    "vehicleType": "Car",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_104",
+    "plateNumber": "KA41FE9855",
+    "vehicleType": "Auto",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_105",
+    "plateNumber": "KA41SZ4434",
+    "vehicleType": "Car",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_106",
+    "plateNumber": "KA53LU1553",
+    "vehicleType": "Scooter",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_107",
+    "plateNumber": "KA53OW7710",
+    "vehicleType": "Bus",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_108",
+    "plateNumber": "KA01OT0787",
+    "vehicleType": "Van",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_109",
+    "plateNumber": "KA41JL0627",
+    "vehicleType": "Van",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_110",
+    "plateNumber": "KA02JQ2491",
+    "vehicleType": "Bus",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_111",
+    "plateNumber": "KA09DB2998",
+    "vehicleType": "Taxi",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_112",
+    "plateNumber": "KA09LM1552",
+    "vehicleType": "Truck",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_113",
+    "plateNumber": "KA04HW8545",
+    "vehicleType": "Motorcycle",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_114",
+    "plateNumber": "KA53SL0463",
+    "vehicleType": "Motorcycle",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_115",
+    "plateNumber": "KA03OS2022",
+    "vehicleType": "Auto",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_116",
+    "plateNumber": "KA09ZQ2291",
+    "vehicleType": "Motorcycle",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_117",
+    "plateNumber": "KA51XD5958",
+    "vehicleType": "Motorcycle",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_118",
+    "plateNumber": "KA53FZ8191",
+    "vehicleType": "Scooter",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_119",
+    "plateNumber": "KA51CV2494",
+    "vehicleType": "Scooter",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_120",
+    "plateNumber": "KA41VX1178",
+    "vehicleType": "Car",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_121",
+    "plateNumber": "KA01SP8269",
+    "vehicleType": "Bus",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_122",
+    "plateNumber": "KA01OW0370",
+    "vehicleType": "Scooter",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_123",
+    "plateNumber": "KA03FF2840",
+    "vehicleType": "Truck",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_124",
+    "plateNumber": "KA09WU2444",
+    "vehicleType": "Motorcycle",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_125",
+    "plateNumber": "KA04ZA3583",
+    "vehicleType": "Car",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_126",
+    "plateNumber": "KA03VL9495",
+    "vehicleType": "Car",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_127",
+    "plateNumber": "KA41PR2571",
+    "vehicleType": "Scooter",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_128",
+    "plateNumber": "KA51VE5037",
+    "vehicleType": "Van",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_129",
+    "plateNumber": "KA03NK3377",
+    "vehicleType": "Auto",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_130",
+    "plateNumber": "KA03OC2346",
+    "vehicleType": "Motorcycle",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_131",
+    "plateNumber": "KA09OD8276",
+    "vehicleType": "Scooter",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_132",
+    "plateNumber": "KA04RD1893",
+    "vehicleType": "Truck",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_133",
+    "plateNumber": "KA04AD8822",
+    "vehicleType": "Bus",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_134",
+    "plateNumber": "KA01WK7054",
+    "vehicleType": "Scooter",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_135",
+    "plateNumber": "KA51QD5251",
+    "vehicleType": "Car",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_136",
+    "plateNumber": "KA41OS9838",
+    "vehicleType": "Scooter",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_137",
+    "plateNumber": "KA09OA2709",
+    "vehicleType": "Bus",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_138",
+    "plateNumber": "KA04CL0837",
+    "vehicleType": "Motorcycle",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_139",
+    "plateNumber": "KA02MY4735",
+    "vehicleType": "Car",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_140",
+    "plateNumber": "KA03AP0123",
+    "vehicleType": "Van",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_141",
+    "plateNumber": "KA02NK7007",
+    "vehicleType": "Motorcycle",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_142",
+    "plateNumber": "KA01OD8323",
+    "vehicleType": "Car",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_143",
+    "plateNumber": "KA03FE6788",
+    "vehicleType": "Truck",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_144",
+    "plateNumber": "KA03OD9564",
+    "vehicleType": "Bus",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_145",
+    "plateNumber": "KA02SL6054",
+    "vehicleType": "Taxi",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_146",
+    "plateNumber": "KA09ZS0529",
+    "vehicleType": "Bus",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_147",
+    "plateNumber": "KA02XG8784",
+    "vehicleType": "Scooter",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_148",
+    "plateNumber": "KA02LE2332",
+    "vehicleType": "Motorcycle",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_149",
+    "plateNumber": "KA02UJ5356",
+    "vehicleType": "Scooter",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_150",
+    "plateNumber": "KA51SB4440",
+    "vehicleType": "Van",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_151",
+    "plateNumber": "KA01QW9535",
+    "vehicleType": "Truck",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_152",
+    "plateNumber": "KA02XG2347",
+    "vehicleType": "Bus",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_153",
+    "plateNumber": "KA09DS6025",
+    "vehicleType": "Truck",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_154",
+    "plateNumber": "KA09TJ3231",
+    "vehicleType": "Bus",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_155",
+    "plateNumber": "KA01LT9034",
+    "vehicleType": "Taxi",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_156",
+    "plateNumber": "KA02LI6307",
+    "vehicleType": "Scooter",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_157",
+    "plateNumber": "KA53ZV4842",
+    "vehicleType": "Scooter",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_158",
+    "plateNumber": "KA41RT7100",
+    "vehicleType": "Bus",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_159",
+    "plateNumber": "KA05AD3827",
+    "vehicleType": "Truck",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_160",
+    "plateNumber": "KA04YI7344",
+    "vehicleType": "Car",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_161",
+    "plateNumber": "KA04TH9930",
+    "vehicleType": "Van",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_162",
+    "plateNumber": "KA41IU4743",
+    "vehicleType": "Car",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_163",
+    "plateNumber": "KA04OT8011",
+    "vehicleType": "Bus",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_164",
+    "plateNumber": "KA05IZ9297",
+    "vehicleType": "Motorcycle",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_165",
+    "plateNumber": "KA53XM2077",
+    "vehicleType": "Taxi",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_166",
+    "plateNumber": "KA41HJ5431",
+    "vehicleType": "Scooter",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_167",
+    "plateNumber": "KA03TJ9851",
+    "vehicleType": "Truck",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_168",
+    "plateNumber": "KA41LH1616",
+    "vehicleType": "Scooter",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_169",
+    "plateNumber": "KA01UC1652",
+    "vehicleType": "Bus",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_170",
+    "plateNumber": "KA04DJ1736",
+    "vehicleType": "Car",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_171",
+    "plateNumber": "KA41IY4032",
+    "vehicleType": "Scooter",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_172",
+    "plateNumber": "KA03FS4889",
+    "vehicleType": "Scooter",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_173",
+    "plateNumber": "KA41FU1180",
+    "vehicleType": "Car",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_174",
+    "plateNumber": "KA04RO2864",
+    "vehicleType": "Car",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_175",
+    "plateNumber": "KA51VF9523",
+    "vehicleType": "Truck",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_176",
+    "plateNumber": "KA05IU6995",
+    "vehicleType": "Van",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_177",
+    "plateNumber": "KA51ZZ3516",
+    "vehicleType": "Motorcycle",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_178",
+    "plateNumber": "KA09WR8623",
+    "vehicleType": "Auto",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_179",
+    "plateNumber": "KA09QA3080",
+    "vehicleType": "Scooter",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_180",
+    "plateNumber": "KA01XE9881",
+    "vehicleType": "Taxi",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_181",
+    "plateNumber": "KA05ZM5657",
+    "vehicleType": "Motorcycle",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_182",
+    "plateNumber": "KA09LZ4015",
+    "vehicleType": "Motorcycle",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_183",
+    "plateNumber": "KA09JD8361",
+    "vehicleType": "Car",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_184",
+    "plateNumber": "KA02UO6966",
+    "vehicleType": "Car",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_185",
+    "plateNumber": "KA03IM8175",
+    "vehicleType": "Motorcycle",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_186",
+    "plateNumber": "KA04PU4441",
+    "vehicleType": "Car",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_187",
+    "plateNumber": "KA51RL0679",
+    "vehicleType": "Bus",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_188",
+    "plateNumber": "KA02XY1164",
+    "vehicleType": "Auto",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_189",
+    "plateNumber": "KA04CI0275",
+    "vehicleType": "Truck",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_190",
+    "plateNumber": "KA02IE1554",
+    "vehicleType": "Motorcycle",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_191",
+    "plateNumber": "KA01BF7365",
+    "vehicleType": "Bus",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_192",
+    "plateNumber": "KA09DM3539",
+    "vehicleType": "Truck",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_193",
+    "plateNumber": "KA01EN0477",
+    "vehicleType": "Truck",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_194",
+    "plateNumber": "KA01PJ9714",
+    "vehicleType": "Taxi",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_195",
+    "plateNumber": "KA53LC3770",
+    "vehicleType": "Scooter",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_196",
+    "plateNumber": "KA51IZ2585",
+    "vehicleType": "Car",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_197",
+    "plateNumber": "KA05QU2929",
+    "vehicleType": "Car",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_198",
+    "plateNumber": "KA41KW3086",
+    "vehicleType": "Auto",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_199",
+    "plateNumber": "KA05OT4884",
+    "vehicleType": "Truck",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_200",
+    "plateNumber": "KA09SW4124",
+    "vehicleType": "Car",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_201",
+    "plateNumber": "KA03AB9339",
+    "vehicleType": "Van",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_202",
+    "plateNumber": "KA01KW3343",
+    "vehicleType": "Motorcycle",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_203",
+    "plateNumber": "KA01CX2583",
+    "vehicleType": "Motorcycle",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_204",
+    "plateNumber": "KA01TS1835",
+    "vehicleType": "Car",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_205",
+    "plateNumber": "KA02KT6532",
+    "vehicleType": "Auto",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_206",
+    "plateNumber": "KA41TI8018",
+    "vehicleType": "Car",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_207",
+    "plateNumber": "KA01XB8499",
+    "vehicleType": "Bus",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_208",
+    "plateNumber": "KA03XM8405",
+    "vehicleType": "Bus",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_209",
+    "plateNumber": "KA53PU9632",
+    "vehicleType": "Car",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_210",
+    "plateNumber": "KA53MS9464",
+    "vehicleType": "Bus",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_211",
+    "plateNumber": "KA04MR2516",
+    "vehicleType": "Van",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_212",
+    "plateNumber": "KA01GD7313",
+    "vehicleType": "Car",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_213",
+    "plateNumber": "KA51JE0878",
+    "vehicleType": "Scooter",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_214",
+    "plateNumber": "KA41RG4444",
+    "vehicleType": "Car",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_215",
+    "plateNumber": "KA09AZ6893",
+    "vehicleType": "Scooter",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_216",
+    "plateNumber": "KA03ZY5221",
+    "vehicleType": "Car",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_217",
+    "plateNumber": "KA09OX4045",
+    "vehicleType": "Bus",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_218",
+    "plateNumber": "KA53OO4342",
+    "vehicleType": "Taxi",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_219",
+    "plateNumber": "KA41NO6007",
+    "vehicleType": "Scooter",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_220",
+    "plateNumber": "KA01KF5010",
+    "vehicleType": "Van",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_221",
+    "plateNumber": "KA02ZU4519",
+    "vehicleType": "Car",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_222",
+    "plateNumber": "KA05KE6010",
+    "vehicleType": "Car",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_223",
+    "plateNumber": "KA09EV1728",
+    "vehicleType": "Scooter",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_224",
+    "plateNumber": "KA53FT9430",
+    "vehicleType": "Car",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_225",
+    "plateNumber": "KA03WP4964",
+    "vehicleType": "Motorcycle",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_226",
+    "plateNumber": "KA51FI3229",
+    "vehicleType": "Motorcycle",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_227",
+    "plateNumber": "KA09OZ4411",
+    "vehicleType": "Motorcycle",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_228",
+    "plateNumber": "KA41BW5378",
+    "vehicleType": "Taxi",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_229",
+    "plateNumber": "KA05SU6644",
+    "vehicleType": "Auto",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_230",
+    "plateNumber": "KA51DO8797",
+    "vehicleType": "Scooter",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_231",
+    "plateNumber": "KA02HU9519",
+    "vehicleType": "Motorcycle",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_232",
+    "plateNumber": "KA41NP8796",
+    "vehicleType": "Motorcycle",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_233",
+    "plateNumber": "KA04DZ6349",
+    "vehicleType": "Motorcycle",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_234",
+    "plateNumber": "KA41ZO7248",
+    "vehicleType": "Auto",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_235",
+    "plateNumber": "KA01ZG9871",
+    "vehicleType": "Bus",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_236",
+    "plateNumber": "KA51IF0207",
+    "vehicleType": "Truck",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_237",
+    "plateNumber": "KA05MO8953",
+    "vehicleType": "Scooter",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_238",
+    "plateNumber": "KA53AA8190",
+    "vehicleType": "Car",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_239",
+    "plateNumber": "KA01NU3510",
+    "vehicleType": "Scooter",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_240",
+    "plateNumber": "KA09SL0857",
+    "vehicleType": "Car",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_241",
+    "plateNumber": "KA02EO5605",
+    "vehicleType": "Motorcycle",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_242",
+    "plateNumber": "KA41HO0269",
+    "vehicleType": "Truck",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_243",
+    "plateNumber": "KA05NB7200",
+    "vehicleType": "Car",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_244",
+    "plateNumber": "KA53PW9498",
+    "vehicleType": "Car",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_245",
+    "plateNumber": "KA05BH7529",
+    "vehicleType": "Car",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_246",
+    "plateNumber": "KA41ZN5758",
+    "vehicleType": "Bus",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_247",
+    "plateNumber": "KA04ND5549",
+    "vehicleType": "Motorcycle",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_248",
+    "plateNumber": "KA09GS9796",
+    "vehicleType": "Scooter",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_249",
+    "plateNumber": "KA05JD5462",
+    "vehicleType": "Van",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_250",
+    "plateNumber": "KA09JK5776",
+    "vehicleType": "Scooter",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_251",
+    "plateNumber": "KA02UM5751",
+    "vehicleType": "Motorcycle",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_252",
+    "plateNumber": "KA41JZ8345",
+    "vehicleType": "Car",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_253",
+    "plateNumber": "KA41OQ4714",
+    "vehicleType": "Motorcycle",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_254",
+    "plateNumber": "KA03TN6124",
+    "vehicleType": "Truck",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_255",
+    "plateNumber": "KA51DG7961",
+    "vehicleType": "Car",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_256",
+    "plateNumber": "KA02FO3330",
+    "vehicleType": "Car",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_257",
+    "plateNumber": "KA04DG5846",
+    "vehicleType": "Taxi",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_258",
+    "plateNumber": "KA53CM3752",
+    "vehicleType": "Motorcycle",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_259",
+    "plateNumber": "KA03OL1291",
+    "vehicleType": "Van",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_260",
+    "plateNumber": "KA53HM3800",
+    "vehicleType": "Scooter",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_261",
+    "plateNumber": "KA53VO0986",
+    "vehicleType": "Auto",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_262",
+    "plateNumber": "KA04TE3846",
+    "vehicleType": "Scooter",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_263",
+    "plateNumber": "KA02PG5426",
+    "vehicleType": "Car",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_264",
+    "plateNumber": "KA41GB9571",
+    "vehicleType": "Truck",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_265",
+    "plateNumber": "KA02ID5755",
+    "vehicleType": "Van",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_266",
+    "plateNumber": "KA53FI7546",
+    "vehicleType": "Taxi",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_267",
+    "plateNumber": "KA41KM7878",
+    "vehicleType": "Taxi",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_268",
+    "plateNumber": "KA53AH1755",
+    "vehicleType": "Car",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_269",
+    "plateNumber": "KA01XW6832",
+    "vehicleType": "Motorcycle",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_270",
+    "plateNumber": "KA53ZO0285",
+    "vehicleType": "Taxi",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_271",
+    "plateNumber": "KA53BU6852",
+    "vehicleType": "Van",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_272",
+    "plateNumber": "KA51NG3907",
+    "vehicleType": "Van",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_273",
+    "plateNumber": "KA03TD5134",
+    "vehicleType": "Truck",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_274",
+    "plateNumber": "KA04WB0753",
+    "vehicleType": "Motorcycle",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_275",
+    "plateNumber": "KA04AJ9740",
+    "vehicleType": "Scooter",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_276",
+    "plateNumber": "KA01FM3813",
+    "vehicleType": "Motorcycle",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_277",
+    "plateNumber": "KA01KZ4626",
+    "vehicleType": "Car",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_278",
+    "plateNumber": "KA04FU0486",
+    "vehicleType": "Car",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_279",
+    "plateNumber": "KA04BM7250",
+    "vehicleType": "Truck",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_280",
+    "plateNumber": "KA02QM5878",
+    "vehicleType": "Scooter",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_281",
+    "plateNumber": "KA04NP6752",
+    "vehicleType": "Van",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_282",
+    "plateNumber": "KA03XJ4085",
+    "vehicleType": "Truck",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_283",
+    "plateNumber": "KA41PZ3143",
+    "vehicleType": "Truck",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_284",
+    "plateNumber": "KA03KK4167",
+    "vehicleType": "Car",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_285",
+    "plateNumber": "KA01AP0499",
+    "vehicleType": "Car",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_286",
+    "plateNumber": "KA02NG0051",
+    "vehicleType": "Car",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_287",
+    "plateNumber": "KA04YZ9610",
+    "vehicleType": "Bus",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_288",
+    "plateNumber": "KA02NO6048",
+    "vehicleType": "Scooter",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_289",
+    "plateNumber": "KA51NN8073",
+    "vehicleType": "Car",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_290",
+    "plateNumber": "KA04QW2251",
+    "vehicleType": "Taxi",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_291",
+    "plateNumber": "KA51KS8267",
+    "vehicleType": "Scooter",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_292",
+    "plateNumber": "KA02ZC6473",
+    "vehicleType": "Motorcycle",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_293",
+    "plateNumber": "KA01AI6216",
+    "vehicleType": "Truck",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_294",
+    "plateNumber": "KA51OW2010",
+    "vehicleType": "Car",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_295",
+    "plateNumber": "KA41FH6776",
+    "vehicleType": "Bus",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_296",
+    "plateNumber": "KA02OW2882",
+    "vehicleType": "Truck",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_297",
+    "plateNumber": "KA05YC3135",
+    "vehicleType": "Truck",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_298",
+    "plateNumber": "KA41RG0826",
+    "vehicleType": "Taxi",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_299",
+    "plateNumber": "KA04EL1088",
+    "vehicleType": "Scooter",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_300",
+    "plateNumber": "KA02DE0725",
+    "vehicleType": "Motorcycle",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_301",
+    "plateNumber": "KA03NN1057",
+    "vehicleType": "Bus",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_302",
+    "plateNumber": "KA01KB3705",
+    "vehicleType": "Auto",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_303",
+    "plateNumber": "KA01EQ3319",
+    "vehicleType": "Motorcycle",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_304",
+    "plateNumber": "KA09FQ9619",
+    "vehicleType": "Car",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_305",
+    "plateNumber": "KA05LQ4421",
+    "vehicleType": "Taxi",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_306",
+    "plateNumber": "KA09EK3132",
+    "vehicleType": "Motorcycle",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_307",
+    "plateNumber": "KA41MZ5244",
+    "vehicleType": "Bus",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_308",
+    "plateNumber": "KA53UF0127",
+    "vehicleType": "Bus",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_309",
+    "plateNumber": "KA04ZT3682",
+    "vehicleType": "Motorcycle",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_310",
+    "plateNumber": "KA53IF3657",
+    "vehicleType": "Truck",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_311",
+    "plateNumber": "KA05BF7415",
+    "vehicleType": "Van",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_312",
+    "plateNumber": "KA04IB1153",
+    "vehicleType": "Taxi",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_313",
+    "plateNumber": "KA09ZA4740",
+    "vehicleType": "Car",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_314",
+    "plateNumber": "KA09MP7109",
+    "vehicleType": "Bus",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_315",
+    "plateNumber": "KA04GY3915",
+    "vehicleType": "Car",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_316",
+    "plateNumber": "KA53MW7973",
+    "vehicleType": "Car",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_317",
+    "plateNumber": "KA03UR4011",
+    "vehicleType": "Scooter",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_318",
+    "plateNumber": "KA53AQ8441",
+    "vehicleType": "Car",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_319",
+    "plateNumber": "KA09VS2719",
+    "vehicleType": "Auto",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_320",
+    "plateNumber": "KA02RP0896",
+    "vehicleType": "Bus",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_321",
+    "plateNumber": "KA05YP9095",
+    "vehicleType": "Scooter",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_322",
+    "plateNumber": "KA05GU2191",
+    "vehicleType": "Motorcycle",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_323",
+    "plateNumber": "KA09FI1699",
+    "vehicleType": "Van",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_324",
+    "plateNumber": "KA41JC4522",
+    "vehicleType": "Truck",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_325",
+    "plateNumber": "KA04MS5100",
+    "vehicleType": "Van",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_326",
+    "plateNumber": "KA41IX9569",
+    "vehicleType": "Taxi",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_327",
+    "plateNumber": "KA01GC0238",
+    "vehicleType": "Bus",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_328",
+    "plateNumber": "KA03HA7665",
+    "vehicleType": "Motorcycle",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_329",
+    "plateNumber": "KA03PS6563",
+    "vehicleType": "Bus",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_330",
+    "plateNumber": "KA01FS6180",
+    "vehicleType": "Van",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_331",
+    "plateNumber": "KA09EG6481",
+    "vehicleType": "Auto",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_332",
+    "plateNumber": "KA04FI3867",
+    "vehicleType": "Car",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_333",
+    "plateNumber": "KA51IO5017",
+    "vehicleType": "Bus",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_334",
+    "plateNumber": "KA51FY0357",
+    "vehicleType": "Bus",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_335",
+    "plateNumber": "KA04RH0207",
+    "vehicleType": "Truck",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_336",
+    "plateNumber": "KA41AQ2554",
+    "vehicleType": "Scooter",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_337",
+    "plateNumber": "KA04UL2168",
+    "vehicleType": "Motorcycle",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_338",
+    "plateNumber": "KA04IA2126",
+    "vehicleType": "Auto",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_339",
+    "plateNumber": "KA03SO1318",
+    "vehicleType": "Auto",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_340",
+    "plateNumber": "KA04DQ0816",
+    "vehicleType": "Car",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_341",
+    "plateNumber": "KA05RD8709",
+    "vehicleType": "Motorcycle",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_342",
+    "plateNumber": "KA05SG2800",
+    "vehicleType": "Van",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_343",
+    "plateNumber": "KA09FU3966",
+    "vehicleType": "Van",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_344",
+    "plateNumber": "KA51WP5803",
+    "vehicleType": "Bus",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_345",
+    "plateNumber": "KA53CJ8754",
+    "vehicleType": "Motorcycle",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_346",
+    "plateNumber": "KA03NQ5192",
+    "vehicleType": "Van",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_347",
+    "plateNumber": "KA04KQ6300",
+    "vehicleType": "Scooter",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_348",
+    "plateNumber": "KA03SY7763",
+    "vehicleType": "Car",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_349",
+    "plateNumber": "KA51NB9889",
+    "vehicleType": "Car",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_350",
+    "plateNumber": "KA41YE4454",
+    "vehicleType": "Car",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_351",
+    "plateNumber": "KA09HM5834",
+    "vehicleType": "Scooter",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_352",
+    "plateNumber": "KA09MX3682",
+    "vehicleType": "Motorcycle",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_353",
+    "plateNumber": "KA04JB8866",
+    "vehicleType": "Scooter",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_354",
+    "plateNumber": "KA41TU9540",
+    "vehicleType": "Motorcycle",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_355",
+    "plateNumber": "KA01JB0442",
+    "vehicleType": "Car",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_356",
+    "plateNumber": "KA41YF1569",
+    "vehicleType": "Bus",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_357",
+    "plateNumber": "KA05SK2902",
+    "vehicleType": "Auto",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_358",
+    "plateNumber": "KA02YW5304",
+    "vehicleType": "Scooter",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_359",
+    "plateNumber": "KA53AH4981",
+    "vehicleType": "Scooter",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_360",
+    "plateNumber": "KA03OS5356",
+    "vehicleType": "Scooter",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_361",
+    "plateNumber": "KA01GA6618",
+    "vehicleType": "Scooter",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_362",
+    "plateNumber": "KA03XG5202",
+    "vehicleType": "Bus",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_363",
+    "plateNumber": "KA02RE3542",
+    "vehicleType": "Car",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_364",
+    "plateNumber": "KA51AO0428",
+    "vehicleType": "Bus",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_365",
+    "plateNumber": "KA53RK4600",
+    "vehicleType": "Scooter",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_366",
+    "plateNumber": "KA53RU4643",
+    "vehicleType": "Scooter",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_367",
+    "plateNumber": "KA09TT7309",
+    "vehicleType": "Car",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_368",
+    "plateNumber": "KA03JO9770",
+    "vehicleType": "Motorcycle",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_369",
+    "plateNumber": "KA04LF9574",
+    "vehicleType": "Car",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_370",
+    "plateNumber": "KA41SO4948",
+    "vehicleType": "Truck",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_371",
+    "plateNumber": "KA03TY8068",
+    "vehicleType": "Scooter",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_372",
+    "plateNumber": "KA03IP0751",
+    "vehicleType": "Truck",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_373",
+    "plateNumber": "KA51QE6224",
+    "vehicleType": "Truck",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_374",
+    "plateNumber": "KA51WQ7944",
+    "vehicleType": "Car",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_375",
+    "plateNumber": "KA01LV7320",
+    "vehicleType": "Truck",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_376",
+    "plateNumber": "KA09ZJ2518",
+    "vehicleType": "Bus",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_377",
+    "plateNumber": "KA03HT0620",
+    "vehicleType": "Car",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_378",
+    "plateNumber": "KA03SE1175",
+    "vehicleType": "Auto",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_379",
+    "plateNumber": "KA01WM1031",
+    "vehicleType": "Car",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_380",
+    "plateNumber": "KA01OO4033",
+    "vehicleType": "Motorcycle",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_381",
+    "plateNumber": "KA02DG5274",
+    "vehicleType": "Bus",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_382",
+    "plateNumber": "KA01CP3740",
+    "vehicleType": "Car",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_383",
+    "plateNumber": "KA02BN9998",
+    "vehicleType": "Truck",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_384",
+    "plateNumber": "KA04BV2718",
+    "vehicleType": "Scooter",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_385",
+    "plateNumber": "KA41FP9834",
+    "vehicleType": "Auto",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_386",
+    "plateNumber": "KA51EQ2767",
+    "vehicleType": "Scooter",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_387",
+    "plateNumber": "KA51PX5853",
+    "vehicleType": "Auto",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_388",
+    "plateNumber": "KA01KH3736",
+    "vehicleType": "Car",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_389",
+    "plateNumber": "KA03LM7383",
+    "vehicleType": "Taxi",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_390",
+    "plateNumber": "KA03PP0492",
+    "vehicleType": "Scooter",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_391",
+    "plateNumber": "KA03BQ2677",
+    "vehicleType": "Scooter",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_392",
+    "plateNumber": "KA09UM9890",
+    "vehicleType": "Truck",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_393",
+    "plateNumber": "KA04ZJ6375",
+    "vehicleType": "Auto",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_394",
+    "plateNumber": "KA02CU1981",
+    "vehicleType": "Motorcycle",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_395",
+    "plateNumber": "KA02DW4251",
+    "vehicleType": "Bus",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_396",
+    "plateNumber": "KA51OU2156",
+    "vehicleType": "Car",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_397",
+    "plateNumber": "KA09CP8195",
+    "vehicleType": "Car",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_398",
+    "plateNumber": "KA04HN3468",
+    "vehicleType": "Car",
+    "color": "Yellow"
+  },
+  {
+    "vehicleId": "VEH_399",
+    "plateNumber": "KA01UL6922",
+    "vehicleType": "Car",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_400",
+    "plateNumber": "KA41ZX0830",
+    "vehicleType": "Truck",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_401",
+    "plateNumber": "KA05JU0343",
+    "vehicleType": "Car",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_402",
+    "plateNumber": "KA03AZ1319",
+    "vehicleType": "Scooter",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_403",
+    "plateNumber": "KA53WI8105",
+    "vehicleType": "Motorcycle",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_404",
+    "plateNumber": "KA53UD7305",
+    "vehicleType": "Auto",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_405",
+    "plateNumber": "KA51DX5239",
+    "vehicleType": "Scooter",
+    "color": "Silver"
+  },
+  {
+    "vehicleId": "VEH_406",
+    "plateNumber": "KA41QG1620",
+    "vehicleType": "Van",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_407",
+    "plateNumber": "KA03ZG0400",
+    "vehicleType": "Scooter",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_408",
+    "plateNumber": "KA51TZ6481",
+    "vehicleType": "Truck",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_409",
+    "plateNumber": "KA53KR4662",
+    "vehicleType": "Truck",
+    "color": "Blue"
+  },
+  {
+    "vehicleId": "VEH_410",
+    "plateNumber": "KA51AF0399",
+    "vehicleType": "Motorcycle",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_411",
+    "plateNumber": "KA02TF1339",
+    "vehicleType": "Van",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_412",
+    "plateNumber": "KA05RT9781",
+    "vehicleType": "Motorcycle",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_413",
+    "plateNumber": "KA04UY9802",
+    "vehicleType": "Motorcycle",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_414",
+    "plateNumber": "KA05PX4455",
+    "vehicleType": "Scooter",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_415",
+    "plateNumber": "KA53EH8757",
+    "vehicleType": "Motorcycle",
+    "color": "Black"
+  },
+  {
+    "vehicleId": "VEH_416",
+    "plateNumber": "KA03RA8815",
+    "vehicleType": "Scooter",
+    "color": "Grey"
+  },
+  {
+    "vehicleId": "VEH_417",
+    "plateNumber": "KA02AG6953",
+    "vehicleType": "Truck",
+    "color": "Beige"
+  },
+  {
+    "vehicleId": "VEH_418",
+    "plateNumber": "KA01UK2835",
+    "vehicleType": "Motorcycle",
+    "color": "Red"
+  },
+  {
+    "vehicleId": "VEH_419",
+    "plateNumber": "KA01SE1791",
+    "vehicleType": "Taxi",
+    "color": "White"
+  },
+  {
+    "vehicleId": "VEH_420",
+    "plateNumber": "KA04SP9646",
+    "vehicleType": "Bus",
+    "color": "Yellow"
+  }
+]

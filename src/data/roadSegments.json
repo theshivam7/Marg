@@ -1,0 +1,1026 @@
+[
+  {
+    "segmentId": "SEG_001",
+    "name": "HSR 14th Main → 27th Main",
+    "road": "14th Main Road / 27th Main Road",
+    "fromCameraId": "CAM_001",
+    "toCameraId": "CAM_002",
+    "distanceKm": 1.84,
+    "coordinates": [
+      [
+        12.9137415,
+        77.6374623
+      ],
+      [
+        12.9118578,
+        77.6517238
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "moderate",
+      "morning": "moderate",
+      "afternoon": "moderate",
+      "evening": "normal",
+      "all": "heavy"
+    },
+    "volumeByPeriod": {
+      "today": 410,
+      "morning": 471,
+      "afternoon": 277,
+      "evening": 524,
+      "all": 1406
+    }
+  },
+  {
+    "segmentId": "SEG_002",
+    "name": "HSR → Agara",
+    "road": "14th Main Road / Outer Ring Road",
+    "fromCameraId": "CAM_001",
+    "toCameraId": "CAM_003",
+    "distanceKm": 1.91,
+    "coordinates": [
+      [
+        12.9137415,
+        77.6374623
+      ],
+      [
+        12.9241248,
+        77.6479642
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "normal",
+      "morning": "normal",
+      "afternoon": "normal",
+      "evening": "heavy",
+      "all": "moderate"
+    },
+    "volumeByPeriod": {
+      "today": 515,
+      "morning": 591,
+      "afternoon": 348,
+      "evening": 658,
+      "all": 1765
+    }
+  },
+  {
+    "segmentId": "SEG_003",
+    "name": "HSR → Silk Board",
+    "road": "14th Main Road / Hosur Road",
+    "fromCameraId": "CAM_001",
+    "toCameraId": "CAM_004",
+    "distanceKm": 1.74,
+    "coordinates": [
+      [
+        12.9137415,
+        77.6374623
+      ],
+      [
+        12.9158171,
+        77.6240368
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "heavy",
+      "morning": "heavy",
+      "afternoon": "normal",
+      "evening": "normal",
+      "all": "normal"
+    },
+    "volumeByPeriod": {
+      "today": 620,
+      "morning": 712,
+      "afternoon": 419,
+      "evening": 792,
+      "all": 2124
+    }
+  },
+  {
+    "segmentId": "SEG_004",
+    "name": "Silk Board → Madiwala",
+    "road": "Hosur Road / Sarjapur Road",
+    "fromCameraId": "CAM_004",
+    "toCameraId": "CAM_005",
+    "distanceKm": 0.81,
+    "coordinates": [
+      [
+        12.9158171,
+        77.6240368
+      ],
+      [
+        12.9210123,
+        77.6206703
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "moderate",
+      "morning": "heavy",
+      "afternoon": "normal",
+      "evening": "moderate",
+      "all": "moderate"
+    },
+    "volumeByPeriod": {
+      "today": 725,
+      "morning": 832,
+      "afternoon": 490,
+      "evening": 926,
+      "all": 2483
+    }
+  },
+  {
+    "segmentId": "SEG_005",
+    "name": "Madiwala → St. John's",
+    "road": "Sarjapur Road / Hosur Road",
+    "fromCameraId": "CAM_005",
+    "toCameraId": "CAM_009",
+    "distanceKm": 1.25,
+    "coordinates": [
+      [
+        12.9210123,
+        77.6206703
+      ],
+      [
+        12.9288983,
+        77.6152539
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "normal",
+      "morning": "normal",
+      "afternoon": "moderate",
+      "evening": "normal",
+      "all": "normal"
+    },
+    "volumeByPeriod": {
+      "today": 829,
+      "morning": 952,
+      "afternoon": 561,
+      "evening": 1060,
+      "all": 2842
+    }
+  },
+  {
+    "segmentId": "SEG_006",
+    "name": "Madiwala → Koramangala",
+    "road": "Sarjapur Road",
+    "fromCameraId": "CAM_005",
+    "toCameraId": "CAM_006",
+    "distanceKm": 0.82,
+    "coordinates": [
+      [
+        12.9210123,
+        77.6206703
+      ],
+      [
+        12.9269396,
+        77.6225982
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "heavy",
+      "morning": "heavy",
+      "afternoon": "normal",
+      "evening": "heavy",
+      "all": "moderate"
+    },
+    "volumeByPeriod": {
+      "today": 934,
+      "morning": 1073,
+      "afternoon": 631,
+      "evening": 1194,
+      "all": 3201
+    }
+  },
+  {
+    "segmentId": "SEG_007",
+    "name": "St. John's → Koramangala",
+    "road": "Hosur Road / Sarjapur Road",
+    "fromCameraId": "CAM_009",
+    "toCameraId": "CAM_006",
+    "distanceKm": 0.97,
+    "coordinates": [
+      [
+        12.9288983,
+        77.6152539
+      ],
+      [
+        12.9269396,
+        77.6225982
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "moderate",
+      "morning": "moderate",
+      "afternoon": "normal",
+      "evening": "normal",
+      "all": "normal"
+    },
+    "volumeByPeriod": {
+      "today": 488,
+      "morning": 560,
+      "afternoon": 330,
+      "evening": 624,
+      "all": 1672
+    }
+  },
+  {
+    "segmentId": "SEG_008",
+    "name": "Koramangala Water Tank → 80 Feet Road",
+    "road": "Sarjapur Road / 80 Feet Road",
+    "fromCameraId": "CAM_006",
+    "toCameraId": "CAM_008",
+    "distanceKm": 1.37,
+    "coordinates": [
+      [
+        12.9269396,
+        77.6225982
+      ],
+      [
+        12.9330648,
+        77.6312713
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "normal",
+      "morning": "normal",
+      "afternoon": "normal",
+      "evening": "moderate",
+      "all": "heavy"
+    },
+    "volumeByPeriod": {
+      "today": 593,
+      "morning": 681,
+      "afternoon": 401,
+      "evening": 758,
+      "all": 2031
+    }
+  },
+  {
+    "segmentId": "SEG_009",
+    "name": "80 Feet Road → Sony World",
+    "road": "80 Feet Road / 100 Feet Road",
+    "fromCameraId": "CAM_008",
+    "toCameraId": "CAM_007",
+    "distanceKm": 0.81,
+    "coordinates": [
+      [
+        12.9330648,
+        77.6312713
+      ],
+      [
+        12.9374466,
+        77.6268399
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "heavy",
+      "morning": "normal",
+      "afternoon": "moderate",
+      "evening": "heavy",
+      "all": "normal"
+    },
+    "volumeByPeriod": {
+      "today": 698,
+      "morning": 801,
+      "afternoon": 472,
+      "evening": 891,
+      "all": 2390
+    }
+  },
+  {
+    "segmentId": "SEG_010",
+    "name": "Koramangala Water Tank → Sony World",
+    "road": "Sarjapur Road / 100 Feet Road",
+    "fromCameraId": "CAM_006",
+    "toCameraId": "CAM_007",
+    "distanceKm": 1.48,
+    "coordinates": [
+      [
+        12.9269396,
+        77.6225982
+      ],
+      [
+        12.9374466,
+        77.6268399
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "moderate",
+      "morning": "heavy",
+      "afternoon": "normal",
+      "evening": "moderate",
+      "all": "moderate"
+    },
+    "volumeByPeriod": {
+      "today": 802,
+      "morning": 921,
+      "afternoon": 542,
+      "evening": 1025,
+      "all": 2749
+    }
+  },
+  {
+    "segmentId": "SEG_011",
+    "name": "Sony World → Ejipura",
+    "road": "100 Feet Road / Inner Ring Road",
+    "fromCameraId": "CAM_007",
+    "toCameraId": "CAM_010",
+    "distanceKm": 0.82,
+    "coordinates": [
+      [
+        12.9374466,
+        77.6268399
+      ],
+      [
+        12.938641,
+        77.633098
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "normal",
+      "morning": "heavy",
+      "afternoon": "normal",
+      "evening": "heavy",
+      "all": "normal"
+    },
+    "volumeByPeriod": {
+      "today": 907,
+      "morning": 1042,
+      "afternoon": 613,
+      "evening": 1159,
+      "all": 3108
+    }
+  },
+  {
+    "segmentId": "SEG_012",
+    "name": "80 Feet Road → Ejipura",
+    "road": "80 Feet Road / Inner Ring Road",
+    "fromCameraId": "CAM_008",
+    "toCameraId": "CAM_010",
+    "distanceKm": 0.77,
+    "coordinates": [
+      [
+        12.9330648,
+        77.6312713
+      ],
+      [
+        12.938641,
+        77.633098
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "heavy",
+      "morning": "normal",
+      "afternoon": "normal",
+      "evening": "moderate",
+      "all": "moderate"
+    },
+    "volumeByPeriod": {
+      "today": 461,
+      "morning": 529,
+      "afternoon": 312,
+      "evening": 589,
+      "all": 1580
+    }
+  },
+  {
+    "segmentId": "SEG_013",
+    "name": "Ejipura → Inner Ring Road",
+    "road": "Inner Ring Road",
+    "fromCameraId": "CAM_010",
+    "toCameraId": "CAM_011",
+    "distanceKm": 1.82,
+    "coordinates": [
+      [
+        12.938641,
+        77.633098
+      ],
+      [
+        12.9510113,
+        77.6396032
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "moderate",
+      "morning": "heavy",
+      "afternoon": "moderate",
+      "evening": "normal",
+      "all": "normal"
+    },
+    "volumeByPeriod": {
+      "today": 566,
+      "morning": 650,
+      "afternoon": 383,
+      "evening": 723,
+      "all": 1939
+    }
+  },
+  {
+    "segmentId": "SEG_014",
+    "name": "Inner Ring Road → Domlur",
+    "road": "Inner Ring Road / Old Airport Road",
+    "fromCameraId": "CAM_011",
+    "toCameraId": "CAM_012",
+    "distanceKm": 1.49,
+    "coordinates": [
+      [
+        12.9510113,
+        77.6396032
+      ],
+      [
+        12.9621956,
+        77.641642
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "normal",
+      "morning": "heavy",
+      "afternoon": "normal",
+      "evening": "moderate",
+      "all": "moderate"
+    },
+    "volumeByPeriod": {
+      "today": 671,
+      "morning": 770,
+      "afternoon": 453,
+      "evening": 857,
+      "all": 2298
+    }
+  },
+  {
+    "segmentId": "SEG_015",
+    "name": "Domlur → Indiranagar",
+    "road": "Old Airport Road / 100 Feet Road",
+    "fromCameraId": "CAM_012",
+    "toCameraId": "CAM_013",
+    "distanceKm": 2.54,
+    "coordinates": [
+      [
+        12.9621956,
+        77.641642
+      ],
+      [
+        12.9815418,
+        77.6410162
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "heavy",
+      "morning": "heavy",
+      "afternoon": "normal",
+      "evening": "normal",
+      "all": "heavy"
+    },
+    "volumeByPeriod": {
+      "today": 775,
+      "morning": 890,
+      "afternoon": 524,
+      "evening": 991,
+      "all": 2657
+    }
+  },
+  {
+    "segmentId": "SEG_016",
+    "name": "100 Feet Road → CMH Road",
+    "road": "100 Feet Road / CMH Road",
+    "fromCameraId": "CAM_013",
+    "toCameraId": "CAM_014",
+    "distanceKm": 0.52,
+    "coordinates": [
+      [
+        12.9815418,
+        77.6410162
+      ],
+      [
+        12.9782941,
+        77.6386519
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "moderate",
+      "morning": "moderate",
+      "afternoon": "normal",
+      "evening": "moderate",
+      "all": "moderate"
+    },
+    "volumeByPeriod": {
+      "today": 880,
+      "morning": 1011,
+      "afternoon": 595,
+      "evening": 1125,
+      "all": 3016
+    }
+  },
+  {
+    "segmentId": "SEG_017",
+    "name": "Agara → Iblur",
+    "road": "Outer Ring Road",
+    "fromCameraId": "CAM_003",
+    "toCameraId": "CAM_015",
+    "distanceKm": 2.25,
+    "coordinates": [
+      [
+        12.9241248,
+        77.6479642
+      ],
+      [
+        12.9206601,
+        77.6651968
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "normal",
+      "morning": "normal",
+      "afternoon": "moderate",
+      "evening": "heavy",
+      "all": "normal"
+    },
+    "volumeByPeriod": {
+      "today": 434,
+      "morning": 498,
+      "afternoon": 293,
+      "evening": 555,
+      "all": 1487
+    }
+  },
+  {
+    "segmentId": "SEG_018",
+    "name": "Iblur → Bellandur",
+    "road": "Outer Ring Road",
+    "fromCameraId": "CAM_015",
+    "toCameraId": "CAM_016",
+    "distanceKm": 1.46,
+    "coordinates": [
+      [
+        12.9206601,
+        77.6651968
+      ],
+      [
+        12.9262,
+        77.6751
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "heavy",
+      "morning": "normal",
+      "afternoon": "normal",
+      "evening": "heavy",
+      "all": "moderate"
+    },
+    "volumeByPeriod": {
+      "today": 539,
+      "morning": 619,
+      "afternoon": 364,
+      "evening": 689,
+      "all": 1846
+    }
+  },
+  {
+    "segmentId": "SEG_019",
+    "name": "Bellandur → Ecospace",
+    "road": "Outer Ring Road",
+    "fromCameraId": "CAM_016",
+    "toCameraId": "CAM_017",
+    "distanceKm": 0.82,
+    "coordinates": [
+      [
+        12.9262,
+        77.6751
+      ],
+      [
+        12.9283411,
+        77.6811574
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "moderate",
+      "morning": "moderate",
+      "afternoon": "normal",
+      "evening": "heavy",
+      "all": "normal"
+    },
+    "volumeByPeriod": {
+      "today": 644,
+      "morning": 739,
+      "afternoon": 435,
+      "evening": 822,
+      "all": 2205
+    }
+  },
+  {
+    "segmentId": "SEG_020",
+    "name": "Ecospace → Devarabeesanahalli",
+    "road": "Outer Ring Road",
+    "fromCameraId": "CAM_017",
+    "toCameraId": "CAM_018",
+    "distanceKm": 1.09,
+    "coordinates": [
+      [
+        12.9283411,
+        77.6811574
+      ],
+      [
+        12.9268618,
+        77.6895136
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "normal",
+      "morning": "normal",
+      "afternoon": "normal",
+      "evening": "heavy",
+      "all": "moderate"
+    },
+    "volumeByPeriod": {
+      "today": 748,
+      "morning": 859,
+      "afternoon": 506,
+      "evening": 956,
+      "all": 2564
+    }
+  },
+  {
+    "segmentId": "SEG_021",
+    "name": "Devarabeesanahalli → Marathahalli Multiplex",
+    "road": "Outer Ring Road",
+    "fromCameraId": "CAM_018",
+    "toCameraId": "CAM_019",
+    "distanceKm": 3.45,
+    "coordinates": [
+      [
+        12.9268618,
+        77.6895136
+      ],
+      [
+        12.9512947,
+        77.6995745
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "heavy",
+      "morning": "normal",
+      "afternoon": "moderate",
+      "evening": "heavy",
+      "all": "normal"
+    },
+    "volumeByPeriod": {
+      "today": 853,
+      "morning": 980,
+      "afternoon": 577,
+      "evening": 1090,
+      "all": 2923
+    }
+  },
+  {
+    "segmentId": "SEG_022",
+    "name": "Marathahalli Multiplex → Bridge",
+    "road": "Outer Ring Road / Varthur Road",
+    "fromCameraId": "CAM_019",
+    "toCameraId": "CAM_020",
+    "distanceKm": 0.96,
+    "coordinates": [
+      [
+        12.9512947,
+        77.6995745
+      ],
+      [
+        12.9567046,
+        77.7046424
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "moderate",
+      "morning": "moderate",
+      "afternoon": "normal",
+      "evening": "moderate",
+      "all": "heavy"
+    },
+    "volumeByPeriod": {
+      "today": 958,
+      "morning": 1100,
+      "afternoon": 648,
+      "evening": 1224,
+      "all": 3282
+    }
+  },
+  {
+    "segmentId": "SEG_023",
+    "name": "Agara → Koramangala",
+    "road": "Outer Ring Road / Sarjapur Road",
+    "fromCameraId": "CAM_003",
+    "toCameraId": "CAM_006",
+    "distanceKm": 3.26,
+    "coordinates": [
+      [
+        12.9241248,
+        77.6479642
+      ],
+      [
+        12.9269396,
+        77.6225982
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "normal",
+      "morning": "normal",
+      "afternoon": "normal",
+      "evening": "normal",
+      "all": "normal"
+    },
+    "volumeByPeriod": {
+      "today": 512,
+      "morning": 588,
+      "afternoon": 346,
+      "evening": 654,
+      "all": 1754
+    }
+  },
+  {
+    "segmentId": "SEG_024",
+    "name": "Iblur → Ejipura",
+    "road": "Outer Ring Road / Inner Ring Road",
+    "fromCameraId": "CAM_015",
+    "toCameraId": "CAM_010",
+    "distanceKm": 4.73,
+    "coordinates": [
+      [
+        12.9206601,
+        77.6651968
+      ],
+      [
+        12.938641,
+        77.633098
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "heavy",
+      "morning": "normal",
+      "afternoon": "normal",
+      "evening": "moderate",
+      "all": "moderate"
+    },
+    "volumeByPeriod": {
+      "today": 617,
+      "morning": 708,
+      "afternoon": 417,
+      "evening": 788,
+      "all": 2113
+    }
+  },
+  {
+    "segmentId": "SEG_025",
+    "name": "Domlur → CMH Road",
+    "road": "Old Airport Road / CMH Road",
+    "fromCameraId": "CAM_012",
+    "toCameraId": "CAM_014",
+    "distanceKm": 2.15,
+    "coordinates": [
+      [
+        12.9621956,
+        77.641642
+      ],
+      [
+        12.9782941,
+        77.6386519
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "moderate",
+      "morning": "moderate",
+      "afternoon": "moderate",
+      "evening": "normal",
+      "all": "normal"
+    },
+    "volumeByPeriod": {
+      "today": 721,
+      "morning": 828,
+      "afternoon": 488,
+      "evening": 922,
+      "all": 2472
+    }
+  },
+  {
+    "segmentId": "SEG_026",
+    "name": "St. John's → Adugodi",
+    "road": "Hosur Road",
+    "fromCameraId": "CAM_009",
+    "toCameraId": "CAM_021",
+    "distanceKm": 1.61,
+    "coordinates": [
+      [
+        12.9288983,
+        77.6152539
+      ],
+      [
+        12.9398233,
+        77.6095574
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "normal",
+      "morning": "normal",
+      "afternoon": "normal",
+      "evening": "moderate",
+      "all": "moderate"
+    },
+    "volumeByPeriod": {
+      "today": 826,
+      "morning": 949,
+      "afternoon": 558,
+      "evening": 1056,
+      "all": 2831
+    }
+  },
+  {
+    "segmentId": "SEG_027",
+    "name": "Adugodi → Richmond Circle",
+    "road": "Hosur Road / Richmond Road",
+    "fromCameraId": "CAM_021",
+    "toCameraId": "CAM_022",
+    "distanceKm": 3.66,
+    "coordinates": [
+      [
+        12.9398233,
+        77.6095574
+      ],
+      [
+        12.9648914,
+        77.5969505
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "heavy",
+      "morning": "normal",
+      "afternoon": "normal",
+      "evening": "normal",
+      "all": "normal"
+    },
+    "volumeByPeriod": {
+      "today": 931,
+      "morning": 1069,
+      "afternoon": 629,
+      "evening": 1190,
+      "all": 3189
+    }
+  },
+  {
+    "segmentId": "SEG_028",
+    "name": "Richmond Circle → MG Road",
+    "road": "Richmond Road / Mahatma Gandhi Road",
+    "fromCameraId": "CAM_022",
+    "toCameraId": "CAM_024",
+    "distanceKm": 1.84,
+    "coordinates": [
+      [
+        12.9648914,
+        77.5969505
+      ],
+      [
+        12.9753877,
+        77.6064952
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "moderate",
+      "morning": "moderate",
+      "afternoon": "normal",
+      "evening": "moderate",
+      "all": "moderate"
+    },
+    "volumeByPeriod": {
+      "today": 485,
+      "morning": 557,
+      "afternoon": 328,
+      "evening": 620,
+      "all": 1661
+    }
+  },
+  {
+    "segmentId": "SEG_029",
+    "name": "MG Road → Trinity Circle",
+    "road": "Mahatma Gandhi Road",
+    "fromCameraId": "CAM_024",
+    "toCameraId": "CAM_023",
+    "distanceKm": 1.73,
+    "coordinates": [
+      [
+        12.9753877,
+        77.6064952
+      ],
+      [
+        12.9726391,
+        77.6197456
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "normal",
+      "morning": "normal",
+      "afternoon": "moderate",
+      "evening": "normal",
+      "all": "heavy"
+    },
+    "volumeByPeriod": {
+      "today": 590,
+      "morning": 677,
+      "afternoon": 399,
+      "evening": 753,
+      "all": 2020
+    }
+  },
+  {
+    "segmentId": "SEG_030",
+    "name": "Trinity Circle → Halasuru",
+    "road": "Mahatma Gandhi Road / Old Madras Road",
+    "fromCameraId": "CAM_023",
+    "toCameraId": "CAM_025",
+    "distanceKm": 0.93,
+    "coordinates": [
+      [
+        12.9726391,
+        77.6197456
+      ],
+      [
+        12.9778793,
+        77.6246697
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "heavy",
+      "morning": "normal",
+      "afternoon": "normal",
+      "evening": "moderate",
+      "all": "moderate"
+    },
+    "volumeByPeriod": {
+      "today": 694,
+      "morning": 797,
+      "afternoon": 469,
+      "evening": 887,
+      "all": 2379
+    }
+  },
+  {
+    "segmentId": "SEG_031",
+    "name": "Halasuru → Indiranagar",
+    "road": "Old Madras Road / 100 Feet Road",
+    "fromCameraId": "CAM_025",
+    "toCameraId": "CAM_013",
+    "distanceKm": 2.14,
+    "coordinates": [
+      [
+        12.9778793,
+        77.6246697
+      ],
+      [
+        12.9815418,
+        77.6410162
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "moderate",
+      "morning": "moderate",
+      "afternoon": "normal",
+      "evening": "normal",
+      "all": "normal"
+    },
+    "volumeByPeriod": {
+      "today": 799,
+      "morning": 918,
+      "afternoon": 540,
+      "evening": 1021,
+      "all": 2738
+    }
+  },
+  {
+    "segmentId": "SEG_032",
+    "name": "Domlur → Halasuru",
+    "road": "Old Airport Road / Old Madras Road",
+    "fromCameraId": "CAM_012",
+    "toCameraId": "CAM_025",
+    "distanceKm": 2.99,
+    "coordinates": [
+      [
+        12.9621956,
+        77.641642
+      ],
+      [
+        12.9778793,
+        77.6246697
+      ]
+    ],
+    "trafficByPeriod": {
+      "today": "normal",
+      "morning": "normal",
+      "afternoon": "normal",
+      "evening": "moderate",
+      "all": "moderate"
+    },
+    "volumeByPeriod": {
+      "today": 904,
+      "morning": 1038,
+      "afternoon": 611,
+      "evening": 1155,
+      "all": 3097
+    }
+  }
+]

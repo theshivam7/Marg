@@ -1,0 +1,182 @@
+[
+  {
+    "alertId": "ALT_001",
+    "severity": "critical",
+    "type": "Watchlisted vehicle",
+    "subject": "KA03MN4582",
+    "message": "Detected at Silk Board Junction.",
+    "timestamp": "2026-09-01T18:42:00+05:30",
+    "cameraId": "CAM_004"
+  },
+  {
+    "alertId": "ALT_002",
+    "severity": "warning",
+    "type": "Heavy congestion",
+    "subject": "Sony World Junction → Domlur",
+    "message": "Traffic is 78% above the expected baseline.",
+    "timestamp": "2026-09-01T18:35:00+05:30",
+    "cameraId": "CAM_007"
+  },
+  {
+    "alertId": "ALT_003",
+    "severity": "warning",
+    "type": "Possible OCR mismatch",
+    "subject": "KA01MX4821",
+    "message": "Low-confidence plate read at CAM_009.",
+    "timestamp": "2026-09-01T10:44:00+05:30",
+    "cameraId": "CAM_009"
+  },
+  {
+    "alertId": "ALT_004",
+    "severity": "warning",
+    "type": "Unusual vehicle movement",
+    "subject": "KA04QZ6118",
+    "message": "Repeated movement between the same three junctions.",
+    "timestamp": "2026-09-01T14:17:00+05:30",
+    "cameraId": "CAM_007"
+  },
+  {
+    "alertId": "ALT_005",
+    "severity": "critical",
+    "type": "Possible plate duplication",
+    "subject": "KA09ZX4481",
+    "message": "Same plate detected at impossible locations within two minutes.",
+    "timestamp": "2026-09-01T12:01:00+05:30",
+    "cameraId": "CAM_004"
+  },
+  {
+    "alertId": "ALT_006",
+    "severity": "info",
+    "type": "Camera offline",
+    "subject": "CAM_014",
+    "message": "Last connection was 12 minutes ago.",
+    "timestamp": "2026-09-01T20:18:00+05:30",
+    "cameraId": "CAM_014"
+  },
+  {
+    "alertId": "ALT_007",
+    "severity": "warning",
+    "type": "Heavy congestion",
+    "subject": "Agara → Bellandur",
+    "message": "Average speed fell below 18 km/h.",
+    "timestamp": "2026-09-01T09:05:00+05:30",
+    "cameraId": "CAM_015"
+  },
+  {
+    "alertId": "ALT_008",
+    "severity": "info",
+    "type": "Camera maintenance",
+    "subject": "CAM_018",
+    "message": "Scheduled calibration is in progress.",
+    "timestamp": "2026-09-01T15:10:00+05:30",
+    "cameraId": "CAM_018"
+  },
+  {
+    "alertId": "ALT_009",
+    "severity": "warning",
+    "type": "Sudden speed drop",
+    "subject": "Inner Ring Road",
+    "message": "Corridor speed dropped 32% in ten minutes.",
+    "timestamp": "2026-09-01T17:48:00+05:30",
+    "cameraId": "CAM_011"
+  },
+  {
+    "alertId": "ALT_010",
+    "severity": "info",
+    "type": "Traffic normalized",
+    "subject": "HSR → Silk Board",
+    "message": "Traffic returned to the expected baseline.",
+    "timestamp": "2026-09-01T11:22:00+05:30",
+    "cameraId": "CAM_004"
+  },
+  {
+    "alertId": "ALT_011",
+    "severity": "warning",
+    "type": "Low OCR confidence",
+    "subject": "KA51PR2048",
+    "message": "Plate partly obscured at Bellandur.",
+    "timestamp": "2026-09-01T19:12:00+05:30",
+    "cameraId": "CAM_017"
+  },
+  {
+    "alertId": "ALT_012",
+    "severity": "critical",
+    "type": "Watchlisted vehicle",
+    "subject": "KA41UV8830",
+    "message": "Second sighting near Marathahalli Bridge.",
+    "timestamp": "2026-09-01T20:04:00+05:30",
+    "cameraId": "CAM_020"
+  },
+  {
+    "alertId": "ALT_013",
+    "severity": "info",
+    "type": "Camera restored",
+    "subject": "CAM_006",
+    "message": "Stream processing resumed normally.",
+    "timestamp": "2026-09-01T07:14:00+05:30",
+    "cameraId": "CAM_006"
+  },
+  {
+    "alertId": "ALT_014",
+    "severity": "warning",
+    "type": "Unusual vehicle movement",
+    "subject": "KA02JL1447",
+    "message": "Unexpected U-turn pattern near Iblur.",
+    "timestamp": "2026-09-01T16:32:00+05:30",
+    "cameraId": "CAM_015"
+  },
+  {
+    "alertId": "ALT_015",
+    "severity": "info",
+    "type": "Volume threshold reached",
+    "subject": "Indiranagar 100 Feet Road",
+    "message": "Hourly volume crossed 900 vehicles.",
+    "timestamp": "2026-09-01T18:55:00+05:30",
+    "cameraId": "CAM_013"
+  },
+  {
+    "alertId": "ALT_016",
+    "severity": "warning",
+    "type": "Heavy congestion",
+    "subject": "Richmond Circle → MG Road",
+    "message": "Traffic volume is 61% above the expected baseline.",
+    "timestamp": "2026-09-01T09:18:00+05:30",
+    "cameraId": "CAM_022"
+  },
+  {
+    "alertId": "ALT_017",
+    "severity": "warning",
+    "type": "Low OCR confidence",
+    "subject": "KA05TR9021",
+    "message": "Night-time plate read requires review at Adugodi.",
+    "timestamp": "2026-09-01T03:12:00+05:30",
+    "cameraId": "CAM_021"
+  },
+  {
+    "alertId": "ALT_018",
+    "severity": "info",
+    "type": "Traffic normalized",
+    "subject": "Trinity Circle",
+    "message": "Average speed returned to the expected range.",
+    "timestamp": "2026-09-01T11:48:00+05:30",
+    "cameraId": "CAM_023"
+  },
+  {
+    "alertId": "ALT_019",
+    "severity": "warning",
+    "type": "Unusual vehicle movement",
+    "subject": "KA04QZ6118",
+    "message": "Repeated east-west loop observed near Halasuru.",
+    "timestamp": "2026-09-01T14:38:00+05:30",
+    "cameraId": "CAM_025"
+  },
+  {
+    "alertId": "ALT_020",
+    "severity": "info",
+    "type": "Processing latency",
+    "subject": "CAM_024",
+    "message": "Event processing latency reached 4.2 seconds.",
+    "timestamp": "2026-09-01T18:08:00+05:30",
+    "cameraId": "CAM_024"
+  }
+]

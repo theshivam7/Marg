@@ -1,0 +1,526 @@
+{
+  "metadata": {
+    "snapshotDate": "2026-09-01",
+    "snapshotTime": "20:30 IST",
+    "timezone": "Asia/Kolkata",
+    "notice": "Traffic quantities, vehicles, detections and alerts are modeled scenario data."
+  },
+  "hourlyVolume": [
+    {
+      "hour": 0,
+      "label": "00:00",
+      "weekday": 120,
+      "weekend": 105,
+      "averageSpeed": 42
+    },
+    {
+      "hour": 1,
+      "label": "01:00",
+      "weekday": 163,
+      "weekend": 105,
+      "averageSpeed": 42
+    },
+    {
+      "hour": 2,
+      "label": "02:00",
+      "weekday": 206,
+      "weekend": 105,
+      "averageSpeed": 41
+    },
+    {
+      "hour": 3,
+      "label": "03:00",
+      "weekday": 159,
+      "weekend": 105,
+      "averageSpeed": 42
+    },
+    {
+      "hour": 4,
+      "label": "04:00",
+      "weekday": 204,
+      "weekend": 105,
+      "averageSpeed": 41
+    },
+    {
+      "hour": 5,
+      "label": "05:00",
+      "weekday": 175,
+      "weekend": 106,
+      "averageSpeed": 42
+    },
+    {
+      "hour": 6,
+      "label": "06:00",
+      "weekday": 728,
+      "weekend": 110,
+      "averageSpeed": 34
+    },
+    {
+      "hour": 7,
+      "label": "07:00",
+      "weekday": 1006,
+      "weekend": 120,
+      "averageSpeed": 30
+    },
+    {
+      "hour": 8,
+      "label": "08:00",
+      "weekday": 1445,
+      "weekend": 147,
+      "averageSpeed": 24
+    },
+    {
+      "hour": 9,
+      "label": "09:00",
+      "weekday": 1398,
+      "weekend": 606,
+      "averageSpeed": 25
+    },
+    {
+      "hour": 10,
+      "label": "10:00",
+      "weekday": 1045,
+      "weekend": 697,
+      "averageSpeed": 29
+    },
+    {
+      "hour": 11,
+      "label": "11:00",
+      "weekday": 674,
+      "weekend": 819,
+      "averageSpeed": 35
+    },
+    {
+      "hour": 12,
+      "label": "12:00",
+      "weekday": 607,
+      "weekend": 942,
+      "averageSpeed": 36
+    },
+    {
+      "hour": 13,
+      "label": "13:00",
+      "weekday": 545,
+      "weekend": 1024,
+      "averageSpeed": 36
+    },
+    {
+      "hour": 14,
+      "label": "14:00",
+      "weekday": 614,
+      "weekend": 1039,
+      "averageSpeed": 35
+    },
+    {
+      "hour": 15,
+      "label": "15:00",
+      "weekday": 674,
+      "weekend": 1003,
+      "averageSpeed": 35
+    },
+    {
+      "hour": 16,
+      "label": "16:00",
+      "weekday": 988,
+      "weekend": 968,
+      "averageSpeed": 30
+    },
+    {
+      "hour": 17,
+      "label": "17:00",
+      "weekday": 1341,
+      "weekend": 976,
+      "averageSpeed": 25
+    },
+    {
+      "hour": 18,
+      "label": "18:00",
+      "weekday": 1645,
+      "weekend": 1012,
+      "averageSpeed": 21
+    },
+    {
+      "hour": 19,
+      "label": "19:00",
+      "weekday": 1477,
+      "weekend": 1012,
+      "averageSpeed": 23
+    },
+    {
+      "hour": 20,
+      "label": "20:00",
+      "weekday": 1135,
+      "weekend": 931,
+      "averageSpeed": 28
+    },
+    {
+      "hour": 21,
+      "label": "21:00",
+      "weekday": 748,
+      "weekend": 794,
+      "averageSpeed": 34
+    },
+    {
+      "hour": 22,
+      "label": "22:00",
+      "weekday": 626,
+      "weekend": 256,
+      "averageSpeed": 35
+    },
+    {
+      "hour": 23,
+      "label": "23:00",
+      "weekday": 220,
+      "weekend": 168,
+      "averageSpeed": 41
+    }
+  ],
+  "dailyTraffic": [
+    {
+      "day": "Mon 19 Aug",
+      "volume": 18240,
+      "averageSpeed": 27
+    },
+    {
+      "day": "Tue 20 Aug",
+      "volume": 19020,
+      "averageSpeed": 26
+    },
+    {
+      "day": "Wed 21 Aug",
+      "volume": 18710,
+      "averageSpeed": 25
+    },
+    {
+      "day": "Thu 22 Aug",
+      "volume": 19480,
+      "averageSpeed": 27
+    },
+    {
+      "day": "Fri 23 Aug",
+      "volume": 20540,
+      "averageSpeed": 26
+    },
+    {
+      "day": "Sat 24 Aug",
+      "volume": 15120,
+      "averageSpeed": 34
+    },
+    {
+      "day": "Sun 25 Aug",
+      "volume": 13780,
+      "averageSpeed": 34
+    },
+    {
+      "day": "Mon 26 Aug",
+      "volume": 18420,
+      "averageSpeed": 26
+    },
+    {
+      "day": "Tue 27 Aug",
+      "volume": 19180,
+      "averageSpeed": 25
+    },
+    {
+      "day": "Wed 28 Aug",
+      "volume": 18860,
+      "averageSpeed": 27
+    },
+    {
+      "day": "Thu 29 Aug",
+      "volume": 19640,
+      "averageSpeed": 26
+    },
+    {
+      "day": "Fri 30 Aug",
+      "volume": 20720,
+      "averageSpeed": 25
+    },
+    {
+      "day": "Sat 31 Aug",
+      "volume": 15310,
+      "averageSpeed": 34
+    },
+    {
+      "day": "Sun 1 Sep",
+      "volume": 13940,
+      "averageSpeed": 34
+    }
+  ],
+  "corridors": [
+    {
+      "name": "HSR → Silk Board",
+      "volumeByPeriod": {
+        "today": 1920,
+        "morning": 595,
+        "afternoon": 403,
+        "evening": 710,
+        "all": 2131
+      },
+      "averageSpeed": 19,
+      "changeFromBaseline": 8
+    },
+    {
+      "name": "Silk Board → Koramangala",
+      "volumeByPeriod": {
+        "today": 1965,
+        "morning": 609,
+        "afternoon": 413,
+        "evening": 727,
+        "all": 2181
+      },
+      "averageSpeed": 21,
+      "changeFromBaseline": 13
+    },
+    {
+      "name": "Koramangala → Domlur",
+      "volumeByPeriod": {
+        "today": 1650,
+        "morning": 512,
+        "afternoon": 347,
+        "evening": 611,
+        "all": 1832
+      },
+      "averageSpeed": 23,
+      "changeFromBaseline": 18
+    },
+    {
+      "name": "Domlur → Indiranagar",
+      "volumeByPeriod": {
+        "today": 1695,
+        "morning": 525,
+        "afternoon": 356,
+        "evening": 627,
+        "all": 1881
+      },
+      "averageSpeed": 25,
+      "changeFromBaseline": 23
+    },
+    {
+      "name": "HSR → Agara",
+      "volumeByPeriod": {
+        "today": 1380,
+        "morning": 428,
+        "afternoon": 290,
+        "evening": 511,
+        "all": 1532
+      },
+      "averageSpeed": 27,
+      "changeFromBaseline": 28
+    },
+    {
+      "name": "Agara → Bellandur",
+      "volumeByPeriod": {
+        "today": 1425,
+        "morning": 442,
+        "afternoon": 299,
+        "evening": 527,
+        "all": 1582
+      },
+      "averageSpeed": 29,
+      "changeFromBaseline": 33
+    },
+    {
+      "name": "Bellandur → Marathahalli",
+      "volumeByPeriod": {
+        "today": 1110,
+        "morning": 344,
+        "afternoon": 233,
+        "evening": 411,
+        "all": 1232
+      },
+      "averageSpeed": 31,
+      "changeFromBaseline": 38
+    },
+    {
+      "name": "St. John's → Richmond Circle",
+      "volumeByPeriod": {
+        "today": 1155,
+        "morning": 358,
+        "afternoon": 243,
+        "evening": 427,
+        "all": 1282
+      },
+      "averageSpeed": 33,
+      "changeFromBaseline": 43
+    },
+    {
+      "name": "Richmond Circle → MG Road",
+      "volumeByPeriod": {
+        "today": 840,
+        "morning": 260,
+        "afternoon": 176,
+        "evening": 311,
+        "all": 932
+      },
+      "averageSpeed": 35,
+      "changeFromBaseline": 48
+    },
+    {
+      "name": "MG Road → Halasuru",
+      "volumeByPeriod": {
+        "today": 885,
+        "morning": 274,
+        "afternoon": 186,
+        "evening": 327,
+        "all": 982
+      },
+      "averageSpeed": 37,
+      "changeFromBaseline": 53
+    }
+  ],
+  "areaStats": [
+    {
+      "name": "HSR Layout",
+      "volumeByPeriod": {
+        "today": 2140,
+        "morning": 663,
+        "afternoon": 449,
+        "evening": 792,
+        "all": 2375
+      }
+    },
+    {
+      "name": "Silk Board",
+      "volumeByPeriod": {
+        "today": 2220,
+        "morning": 688,
+        "afternoon": 466,
+        "evening": 821,
+        "all": 2464
+      }
+    },
+    {
+      "name": "Koramangala",
+      "volumeByPeriod": {
+        "today": 2300,
+        "morning": 713,
+        "afternoon": 483,
+        "evening": 851,
+        "all": 2553
+      }
+    },
+    {
+      "name": "Domlur",
+      "volumeByPeriod": {
+        "today": 1870,
+        "morning": 580,
+        "afternoon": 393,
+        "evening": 692,
+        "all": 2076
+      }
+    },
+    {
+      "name": "Indiranagar",
+      "volumeByPeriod": {
+        "today": 1950,
+        "morning": 605,
+        "afternoon": 410,
+        "evening": 722,
+        "all": 2165
+      }
+    },
+    {
+      "name": "Bellandur",
+      "volumeByPeriod": {
+        "today": 2030,
+        "morning": 629,
+        "afternoon": 426,
+        "evening": 751,
+        "all": 2253
+      }
+    },
+    {
+      "name": "Marathahalli",
+      "volumeByPeriod": {
+        "today": 1600,
+        "morning": 496,
+        "afternoon": 336,
+        "evening": 592,
+        "all": 1776
+      }
+    },
+    {
+      "name": "Adugodi",
+      "volumeByPeriod": {
+        "today": 1680,
+        "morning": 521,
+        "afternoon": 353,
+        "evening": 622,
+        "all": 1865
+      }
+    },
+    {
+      "name": "City Centre",
+      "volumeByPeriod": {
+        "today": 1760,
+        "morning": 546,
+        "afternoon": 370,
+        "evening": 651,
+        "all": 1954
+      }
+    },
+    {
+      "name": "Halasuru",
+      "volumeByPeriod": {
+        "today": 1330,
+        "morning": 412,
+        "afternoon": 279,
+        "evening": 492,
+        "all": 1476
+      }
+    }
+  ],
+  "morningVsEvening": [
+    {
+      "area": "HSR Layout",
+      "morning": 680,
+      "evening": 790
+    },
+    {
+      "area": "Silk Board",
+      "morning": 750,
+      "evening": 903
+    },
+    {
+      "area": "Koramangala",
+      "morning": 820,
+      "evening": 1016
+    },
+    {
+      "area": "Domlur",
+      "morning": 890,
+      "evening": 1129
+    },
+    {
+      "area": "Indiranagar",
+      "morning": 960,
+      "evening": 832
+    },
+    {
+      "area": "Bellandur",
+      "morning": 1030,
+      "evening": 945
+    },
+    {
+      "area": "Marathahalli",
+      "morning": 1100,
+      "evening": 1058
+    },
+    {
+      "area": "Adugodi",
+      "morning": 1170,
+      "evening": 1171
+    },
+    {
+      "area": "City Centre",
+      "morning": 1240,
+      "evening": 874
+    },
+    {
+      "area": "Halasuru",
+      "morning": 1310,
+      "evening": 987
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+:root {
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Segoe UI", sans-serif;
+  color: #172033;
+  background: #f3f6fa;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  --canvas: #f3f6fa;
+  --surface: #ffffff;
+  --surface-muted: #f7f9fc;
+  --ink: #172033;
+  --muted: #657188;
+  --line: #e3e8ef;
+  --accent: #2563eb;
+  --accent-dark: #1d4ed8;
+  --teal: #0f9f8f;
+  --green: #1b9a78;
+  --amber: #d59124;
+  --red: #d85353;
+}
+
+* { box-sizing: border-box; }
+html { background: var(--canvas); }
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0;
+  background: radial-gradient(circle at 76% -10%, rgba(37, 99, 235, 0.07), transparent 32rem), var(--canvas);
+}
+
+button, input, select { font: inherit; }
+button, a { -webkit-tap-highlight-color: transparent; }
+
+button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible {
+  outline: 3px solid rgba(37, 99, 235, 0.2);
+  outline-offset: 2px;
+}
+
+::selection { color: #fff; background: #2563eb; }
+
+.panel {
+  border: 1px solid var(--line);
+  border-radius: 1rem;
+  background: rgba(255, 255, 255, 0.96);
+  box-shadow: 0 1px 2px rgba(15, 23, 42, 0.025), 0 8px 28px rgba(15, 23, 42, 0.035);
+}
+
+.subtle-grid {
+  background-image: linear-gradient(rgba(100, 116, 139, 0.04) 1px, transparent 1px), linear-gradient(90deg, rgba(100, 116, 139, 0.04) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+.leaflet-container { width: 100%; background: #e9eef5; font-family: inherit; z-index: 0; }
+.leaflet-control-zoom { border: 0 !important; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.12) !important; }
+.leaflet-control-zoom a { color: var(--ink) !important; background: rgba(255,255,255,.96) !important; border-color: var(--line) !important; }
+.leaflet-control-attribution { color: #64748b; background: rgba(255,255,255,.9) !important; }
+.leaflet-popup-content-wrapper, .leaflet-popup-tip { background: var(--surface); color: var(--ink); }
+.leaflet-popup-content-wrapper { border: 1px solid var(--line); border-radius: 14px; box-shadow: 0 16px 40px rgba(15,23,42,.16); }
+.leaflet-popup-content { margin: 14px 16px; }
+.recharts-cartesian-grid-horizontal line, .recharts-cartesian-grid-vertical line { stroke: #e8edf3; }
+.recharts-default-tooltip { border: 1px solid var(--line) !important; border-radius: 12px !important; background: rgba(255,255,255,.97) !important; box-shadow: 0 12px 32px rgba(15,23,42,.1) !important; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; }
+}

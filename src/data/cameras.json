@@ -1,0 +1,427 @@
+[
+  {
+    "cameraId": "CAM_001",
+    "name": "HSR Layout BDA Complex",
+    "area": "HSR Layout",
+    "road": "14th Main Road",
+    "latitude": 12.9137415,
+    "longitude": 77.6374623,
+    "status": "online",
+    "direction": "Northbound",
+    "trafficByPeriod": {
+      "today": "heavy",
+      "morning": "normal",
+      "afternoon": "moderate",
+      "evening": "moderate",
+      "all": "heavy"
+    }
+  },
+  {
+    "cameraId": "CAM_002",
+    "name": "HSR Layout 27th Main",
+    "area": "HSR Layout",
+    "road": "27th Main Road",
+    "latitude": 12.9118578,
+    "longitude": 77.6517238,
+    "status": "online",
+    "direction": "Westbound",
+    "trafficByPeriod": {
+      "today": "normal",
+      "morning": "moderate",
+      "afternoon": "normal",
+      "evening": "moderate",
+      "all": "normal"
+    }
+  },
+  {
+    "cameraId": "CAM_003",
+    "name": "Agara Junction",
+    "area": "Agara",
+    "road": "Outer Ring Road",
+    "latitude": 12.9241248,
+    "longitude": 77.6479642,
+    "status": "online",
+    "direction": "Eastbound",
+    "trafficByPeriod": {
+      "today": "normal",
+      "morning": "normal",
+      "afternoon": "normal",
+      "evening": "heavy",
+      "all": "moderate"
+    }
+  },
+  {
+    "cameraId": "CAM_004",
+    "name": "Silk Board Junction",
+    "area": "Silk Board",
+    "road": "Hosur Road",
+    "latitude": 12.9158171,
+    "longitude": 77.6240368,
+    "status": "online",
+    "direction": "Northbound",
+    "trafficByPeriod": {
+      "today": "moderate",
+      "morning": "heavy",
+      "afternoon": "normal",
+      "evening": "moderate",
+      "all": "normal"
+    }
+  },
+  {
+    "cameraId": "CAM_005",
+    "name": "Madiwala Traffic Police Junction",
+    "area": "Madiwala",
+    "road": "Sarjapur Road",
+    "latitude": 12.9210123,
+    "longitude": 77.6206703,
+    "status": "online",
+    "direction": "Northbound",
+    "trafficByPeriod": {
+      "today": "normal",
+      "morning": "heavy",
+      "afternoon": "moderate",
+      "evening": "moderate",
+      "all": "moderate"
+    }
+  },
+  {
+    "cameraId": "CAM_006",
+    "name": "Koramangala Water Tank",
+    "area": "Koramangala",
+    "road": "Sarjapur Road",
+    "latitude": 12.9269396,
+    "longitude": 77.6225982,
+    "status": "online",
+    "direction": "Northbound",
+    "trafficByPeriod": {
+      "today": "heavy",
+      "morning": "heavy",
+      "afternoon": "normal",
+      "evening": "moderate",
+      "all": "normal"
+    }
+  },
+  {
+    "cameraId": "CAM_007",
+    "name": "Sony World Signal",
+    "area": "Koramangala",
+    "road": "100 Feet Road",
+    "latitude": 12.9374466,
+    "longitude": 77.6268399,
+    "status": "online",
+    "direction": "Northbound",
+    "trafficByPeriod": {
+      "today": "moderate",
+      "morning": "heavy",
+      "afternoon": "normal",
+      "evening": "heavy",
+      "all": "heavy"
+    }
+  },
+  {
+    "cameraId": "CAM_008",
+    "name": "Koramangala 80 Feet Road",
+    "area": "Koramangala",
+    "road": "80 Feet Road",
+    "latitude": 12.9330648,
+    "longitude": 77.6312713,
+    "status": "online",
+    "direction": "North-east",
+    "trafficByPeriod": {
+      "today": "normal",
+      "morning": "moderate",
+      "afternoon": "normal",
+      "evening": "heavy",
+      "all": "normal"
+    }
+  },
+  {
+    "cameraId": "CAM_009",
+    "name": "St. John's Hospital Junction",
+    "area": "Madiwala",
+    "road": "Hosur Road",
+    "latitude": 12.9288983,
+    "longitude": 77.6152539,
+    "status": "online",
+    "direction": "Northbound",
+    "trafficByPeriod": {
+      "today": "normal",
+      "morning": "normal",
+      "afternoon": "moderate",
+      "evening": "moderate",
+      "all": "moderate"
+    }
+  },
+  {
+    "cameraId": "CAM_010",
+    "name": "Ejipura Signal",
+    "area": "Ejipura",
+    "road": "Inner Ring Road",
+    "latitude": 12.938641,
+    "longitude": 77.633098,
+    "status": "online",
+    "direction": "North-east",
+    "trafficByPeriod": {
+      "today": "moderate",
+      "morning": "moderate",
+      "afternoon": "normal",
+      "evening": "heavy",
+      "all": "normal"
+    }
+  },
+  {
+    "cameraId": "CAM_011",
+    "name": "Embassy Golf Links",
+    "area": "Inner Ring Road",
+    "road": "Inner Ring Road",
+    "latitude": 12.9510113,
+    "longitude": 77.6396032,
+    "status": "online",
+    "direction": "Northbound",
+    "trafficByPeriod": {
+      "today": "heavy",
+      "morning": "heavy",
+      "afternoon": "normal",
+      "evening": "moderate",
+      "all": "moderate"
+    }
+  },
+  {
+    "cameraId": "CAM_012",
+    "name": "Domlur Flyover",
+    "area": "Domlur",
+    "road": "Old Airport Road",
+    "latitude": 12.9621956,
+    "longitude": 77.641642,
+    "status": "online",
+    "direction": "Northbound",
+    "trafficByPeriod": {
+      "today": "normal",
+      "morning": "heavy",
+      "afternoon": "normal",
+      "evening": "moderate",
+      "all": "normal"
+    }
+  },
+  {
+    "cameraId": "CAM_013",
+    "name": "Indiranagar 100 Feet Road",
+    "area": "Indiranagar",
+    "road": "100 Feet Road",
+    "latitude": 12.9815418,
+    "longitude": 77.6410162,
+    "status": "online",
+    "direction": "Northbound",
+    "trafficByPeriod": {
+      "today": "moderate",
+      "morning": "normal",
+      "afternoon": "moderate",
+      "evening": "moderate",
+      "all": "heavy"
+    }
+  },
+  {
+    "cameraId": "CAM_014",
+    "name": "Indiranagar Metro / CMH Road",
+    "area": "Indiranagar",
+    "road": "CMH Road",
+    "latitude": 12.9782941,
+    "longitude": 77.6386519,
+    "status": "offline",
+    "direction": "Westbound",
+    "trafficByPeriod": {
+      "today": "normal",
+      "morning": "moderate",
+      "afternoon": "normal",
+      "evening": "moderate",
+      "all": "normal"
+    }
+  },
+  {
+    "cameraId": "CAM_015",
+    "name": "Iblur Junction",
+    "area": "Iblur",
+    "road": "Outer Ring Road",
+    "latitude": 12.9206601,
+    "longitude": 77.6651968,
+    "status": "online",
+    "direction": "Eastbound",
+    "trafficByPeriod": {
+      "today": "normal",
+      "morning": "normal",
+      "afternoon": "normal",
+      "evening": "heavy",
+      "all": "moderate"
+    }
+  },
+  {
+    "cameraId": "CAM_016",
+    "name": "Bellandur Central Junction",
+    "area": "Bellandur",
+    "road": "Outer Ring Road",
+    "latitude": 12.9262,
+    "longitude": 77.6751,
+    "status": "online",
+    "direction": "Eastbound",
+    "trafficByPeriod": {
+      "today": "heavy",
+      "morning": "moderate",
+      "afternoon": "normal",
+      "evening": "heavy",
+      "all": "normal"
+    }
+  },
+  {
+    "cameraId": "CAM_017",
+    "name": "Ecospace Bellandur",
+    "area": "Bellandur",
+    "road": "Outer Ring Road",
+    "latitude": 12.9283411,
+    "longitude": 77.6811574,
+    "status": "online",
+    "direction": "Eastbound",
+    "trafficByPeriod": {
+      "today": "normal",
+      "morning": "normal",
+      "afternoon": "moderate",
+      "evening": "heavy",
+      "all": "moderate"
+    }
+  },
+  {
+    "cameraId": "CAM_018",
+    "name": "Devarabeesanahalli",
+    "area": "Bellandur",
+    "road": "Outer Ring Road",
+    "latitude": 12.9268618,
+    "longitude": 77.6895136,
+    "status": "maintenance",
+    "direction": "Eastbound",
+    "trafficByPeriod": {
+      "today": "normal",
+      "morning": "moderate",
+      "afternoon": "normal",
+      "evening": "heavy",
+      "all": "normal"
+    }
+  },
+  {
+    "cameraId": "CAM_019",
+    "name": "Marathahalli Multiplex",
+    "area": "Marathahalli",
+    "road": "Outer Ring Road",
+    "latitude": 12.9512947,
+    "longitude": 77.6995745,
+    "status": "online",
+    "direction": "Northbound",
+    "trafficByPeriod": {
+      "today": "moderate",
+      "morning": "normal",
+      "afternoon": "normal",
+      "evening": "moderate",
+      "all": "heavy"
+    }
+  },
+  {
+    "cameraId": "CAM_020",
+    "name": "Marathahalli Bridge",
+    "area": "Marathahalli",
+    "road": "Varthur Road",
+    "latitude": 12.9567046,
+    "longitude": 77.7046424,
+    "status": "online",
+    "direction": "Northbound",
+    "trafficByPeriod": {
+      "today": "normal",
+      "morning": "moderate",
+      "afternoon": "normal",
+      "evening": "moderate",
+      "all": "normal"
+    }
+  },
+  {
+    "cameraId": "CAM_021",
+    "name": "Adugodi Police Station",
+    "area": "Adugodi",
+    "road": "Hosur Road",
+    "latitude": 12.9398233,
+    "longitude": 77.6095574,
+    "status": "online",
+    "direction": "Northbound",
+    "trafficByPeriod": {
+      "today": "heavy",
+      "morning": "normal",
+      "afternoon": "moderate",
+      "evening": "moderate",
+      "all": "moderate"
+    }
+  },
+  {
+    "cameraId": "CAM_022",
+    "name": "Richmond Circle",
+    "area": "City Centre",
+    "road": "Richmond Road",
+    "latitude": 12.9648914,
+    "longitude": 77.5969505,
+    "status": "online",
+    "direction": "Northbound",
+    "trafficByPeriod": {
+      "today": "moderate",
+      "morning": "moderate",
+      "afternoon": "normal",
+      "evening": "moderate",
+      "all": "normal"
+    }
+  },
+  {
+    "cameraId": "CAM_023",
+    "name": "Trinity Circle",
+    "area": "City Centre",
+    "road": "Mahatma Gandhi Road",
+    "latitude": 12.9726391,
+    "longitude": 77.6197456,
+    "status": "online",
+    "direction": "Eastbound",
+    "trafficByPeriod": {
+      "today": "normal",
+      "morning": "normal",
+      "afternoon": "normal",
+      "evening": "moderate",
+      "all": "moderate"
+    }
+  },
+  {
+    "cameraId": "CAM_024",
+    "name": "MG Road Metro",
+    "area": "City Centre",
+    "road": "Mahatma Gandhi Road",
+    "latitude": 12.9753877,
+    "longitude": 77.6064952,
+    "status": "online",
+    "direction": "Westbound",
+    "trafficByPeriod": {
+      "today": "normal",
+      "morning": "moderate",
+      "afternoon": "normal",
+      "evening": "moderate",
+      "all": "normal"
+    }
+  },
+  {
+    "cameraId": "CAM_025",
+    "name": "Halasuru Junction",
+    "area": "Halasuru",
+    "road": "Old Madras Road",
+    "latitude": 12.9778793,
+    "longitude": 77.6246697,
+    "status": "online",
+    "direction": "Eastbound",
+    "trafficByPeriod": {
+      "today": "moderate",
+      "morning": "normal",
+      "afternoon": "moderate",
+      "evening": "moderate",
+      "all": "heavy"
+    }
+  }
+]
