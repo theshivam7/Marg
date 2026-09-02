@@ -1,35 +1,27 @@
 # Marg
 
-Marg is a Bengaluru traffic intelligence dashboard for ANPR vehicle tracking, route reconstruction, camera monitoring, congestion analytics, and operational alerts.
+Bengaluru traffic intelligence dashboard for ANPR tracking, route reconstruction, congestion analytics, and operational alerts.
 
-## Stack
+## Features
 
-React, Vite, JavaScript, Tailwind CSS, Leaflet, OpenStreetMap, Recharts, and Lucide.
+- Camera network and traffic-density map
+- Number-plate search and vehicle trajectories
+- Traffic analytics and alert monitoring
+- Responsive, Vercel-ready interface
 
-## Run locally
+## Run
 
 ```bash
 npm install
 npm run dev
 ```
 
-## Verify and build
-
-```bash
-npm run validate:data
-npm run lint
-npm run build
-```
+Verify with `npm run validate:data`, `npm run lint`, and `npm run build`.
 
 ## Demo plates
 
-- `KA01AB1234` — HSR Layout to Indiranagar
-- `KA03MN4582` — watchlist alert
-- `KA05TR9021` — Outer Ring Road truck route
-- `KA02CX7719` — repeated commuter
-- `KA04QZ6118` — unusual movement
-- `KA09ZX4481` — plate duplication alert
+`KA01AB1234` · `KA03MN4582` · `KA05TR9021` · `KA09ZX4481`
 
 ## Deploy
 
-Import the GitHub repository into Vercel. Use `npm run build` and the `dist` output directory. No environment variables are required.
+Import the repository into Vercel. Build with `npm run build` and publish `dist`.
