@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <rect width="48" height="48" rx="12" fill="url(#margGrad)"/>
+  <path d="M13 33V19L24 28L35 19V33" stroke="white" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="24" cy="28" r="2" fill="#93C5FD"/>
+  <defs>
+    <linearGradient id="margGrad" x1="0" y1="0" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#1D4ED8"/>
+    </linearGradient>
+  </defs>
+</svg>

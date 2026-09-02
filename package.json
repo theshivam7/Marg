@@ -10,6 +10,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
+    "validate:data": "node scripts/validateData.mjs",
     "preview": "vite preview",
     "generate:data": "node scripts/generateData.mjs"
   },

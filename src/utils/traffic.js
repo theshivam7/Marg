@@ -20,21 +20,27 @@ export function isInPeriod(timestamp, period) {
 
 export const filterByPeriod = (items, period) => items.filter((item) => isInPeriod(item.timestamp, period))
 
-export const formatTime = (timestamp) => new Intl.DateTimeFormat('en-IN', {
-  hour: '2-digit',
-  minute: '2-digit',
-  hour12: true,
-  timeZone: 'Asia/Kolkata',
-}).format(new Date(timestamp))
+export const formatTime = (timestamp) => {
+  if (!timestamp) return '--:--'
+  return new Intl.DateTimeFormat('en-IN', {
+    hour: '2-digit',
+    minute: '2-digit',
+    hour12: true,
+    timeZone: 'Asia/Kolkata',
+  }).format(new Date(timestamp))
+}
 
-export const formatDateTime = (timestamp) => new Intl.DateTimeFormat('en-IN', {
-  day: '2-digit',
-  month: 'short',
-  hour: '2-digit',
-  minute: '2-digit',
-  hour12: true,
-  timeZone: 'Asia/Kolkata',
-}).format(new Date(timestamp))
+export const formatDateTime = (timestamp) => {
+  if (!timestamp) return '--'
+  return new Intl.DateTimeFormat('en-IN', {
+    day: '2-digit',
+    month: 'short',
+    hour: '2-digit',
+    minute: '2-digit',
+    hour12: true,
+    timeZone: 'Asia/Kolkata',
+  }).format(new Date(timestamp))
+}
 
 export const periodHours = (hour, period) => {
   if (period === 'morning') return hour >= 6 && hour < 12
@@ -45,12 +51,22 @@ export const periodHours = (hour, period) => {
 }
 
 export const trafficColor = (level) => ({
-  normal: '#1b9a78',
-  moderate: '#d59124',
-  heavy: '#d85353',
-}[level] ?? '#8290a3')
+  normal: '#10b981',
+  moderate: '#f59e0b',
+  heavy: '#ef4444',
+}[level] ?? '#64748b')
 
-export const trafficLabel = (level) => ({ normal: 'Normal', moderate: 'Moderate', heavy: 'Heavy' }[level] ?? 'Unknown')
+export const trafficLabel = (level) => ({
+  normal: 'Normal',
+  moderate: 'Moderate',
+  heavy: 'Heavy',
+}[level] ?? 'Unknown')
+
+export const trafficTextColor = (level) => ({
+  normal: '#047857',
+  moderate: '#9a5600',
+  heavy: '#b42318',
+}[level] ?? '#475569')
 
 export function getKpis(detections, cameras, segments, alerts, period) {
   const filtered = filterByPeriod(detections, period)

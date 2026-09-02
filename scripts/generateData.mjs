@@ -225,12 +225,14 @@ const tripMinutes = (route, startMinute) => {
 }
 const addTrip = (vehicle, route, startMinute, exactOffsets) => {
   const minutes = exactOffsets ? exactOffsets.map((offset) => startMinute + offset) : tripMinutes(route, startMinute)
+  const tripSecond = Math.floor(random() * 50)
   route.forEach((cameraId, index) => {
     if (minutes[index] >= 1440) return
     const hour = Math.floor(minutes[index] / 60)
     const peakPenalty = (hour >= 7 && hour < 10) || (hour >= 17 && hour < 21) ? 12 : hour >= 10 && hour < 17 ? 5 : 0
     const typeBase = { Truck: 34, Bus: 32, Auto: 34, Van: 38, Car: 41, Taxi: 40, Motorcycle: 44, Scooter: 40 }[vehicle.vehicleType] ?? 38
     addEvent(vehicle, cameraId, minutes[index], {
+      seconds: tripSecond,
       speed: Math.max(12, Math.min(58, Math.round(typeBase - peakPenalty + random() * 10 - 4))),
     })
   })
@@ -283,10 +285,15 @@ const weightedHour = () => {
 
 vehicles.slice(10).forEach((vehicle, index) => {
   const route = routeTemplates[index % routeTemplates.length]
-  const hour = vehicle.vehicleType === 'Truck' && random() < 0.66 ? pick([0, 1, 2, 3, 4, 5, 22, 23]) : weightedHour()
+  const hasReturnTrip = index % 5 === 0
+  const hour = hasReturnTrip
+    ? pick([6, 7, 8, 9])
+    : vehicle.vehicleType === 'Truck' && random() < 0.66
+      ? pick([0, 1, 2, 3, 4, 5, 22, 23])
+      : weightedHour()
   const start = hour * 60 + Math.floor(random() * 44)
   addTrip(vehicle, route, start)
-  if (index % 5 === 0) addTrip(vehicle, [...route].reverse(), 1040 + Math.floor(random() * 190))
+  if (hasReturnTrip) addTrip(vehicle, [...route].reverse(), 1040 + Math.floor(random() * 190))
 })
 
 detections.sort((a, b) => a.timestamp.localeCompare(b.timestamp))
@@ -330,12 +337,18 @@ const areaStats = areaNames.map((name, index) => {
     volumeByPeriod: Object.fromEntries(Object.entries(periodMultiplier).map(([period, multiplier]) => [period, Math.round(base * multiplier)])),
   }
 })
-const dailyTraffic = [
-  ['Mon 19 Aug', 18240], ['Tue 20 Aug', 19020], ['Wed 21 Aug', 18710], ['Thu 22 Aug', 19480],
-  ['Fri 23 Aug', 20540], ['Sat 24 Aug', 15120], ['Sun 25 Aug', 13780], ['Mon 26 Aug', 18420],
-  ['Tue 27 Aug', 19180], ['Wed 28 Aug', 18860], ['Thu 29 Aug', 19640], ['Fri 30 Aug', 20720],
-  ['Sat 31 Aug', 15310], ['Sun 1 Sep', 13940],
-].map(([day, volume], index) => ({ day, volume, averageSpeed: index % 7 >= 5 ? 34 : 27 - (index % 3) }))
+const dailyVolumes = [18710, 19480, 20540, 15120, 13780, 18420, 19180, 18860, 19640, 20720, 15310, 13940, 18580, 19220]
+const dayNames = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat']
+const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+const dailyTraffic = dailyVolumes.map((volume, index) => {
+  const date = new Date(Date.UTC(2026, 7, 19 + index))
+  const weekend = date.getUTCDay() === 0 || date.getUTCDay() === 6
+  return {
+    day: `${dayNames[date.getUTCDay()]} ${date.getUTCDate()} ${monthNames[date.getUTCMonth()]}`,
+    volume,
+    averageSpeed: weekend ? 34 : 25 + (index % 3),
+  }
+})
 
 const alerts = [
   ['ALT_001', 'critical', 'Watchlisted vehicle', 'KA03MN4582', 'Detected at Silk Board Junction.', '2026-09-01T18:42:00+05:30', 'CAM_004'],

@@ -177,74 +177,74 @@
   ],
   "dailyTraffic": [
     {
-      "day": "Mon 19 Aug",
-      "volume": 18240,
-      "averageSpeed": 27
-    },
-    {
-      "day": "Tue 20 Aug",
-      "volume": 19020,
-      "averageSpeed": 26
-    },
-    {
-      "day": "Wed 21 Aug",
+      "day": "Wed 19 Aug",
       "volume": 18710,
       "averageSpeed": 25
     },
     {
-      "day": "Thu 22 Aug",
+      "day": "Thu 20 Aug",
       "volume": 19480,
-      "averageSpeed": 27
-    },
-    {
-      "day": "Fri 23 Aug",
-      "volume": 20540,
       "averageSpeed": 26
     },
     {
-      "day": "Sat 24 Aug",
+      "day": "Fri 21 Aug",
+      "volume": 20540,
+      "averageSpeed": 27
+    },
+    {
+      "day": "Sat 22 Aug",
       "volume": 15120,
       "averageSpeed": 34
     },
     {
-      "day": "Sun 25 Aug",
+      "day": "Sun 23 Aug",
       "volume": 13780,
       "averageSpeed": 34
     },
     {
-      "day": "Mon 26 Aug",
+      "day": "Mon 24 Aug",
       "volume": 18420,
-      "averageSpeed": 26
+      "averageSpeed": 27
     },
     {
-      "day": "Tue 27 Aug",
+      "day": "Tue 25 Aug",
       "volume": 19180,
       "averageSpeed": 25
     },
     {
-      "day": "Wed 28 Aug",
+      "day": "Wed 26 Aug",
       "volume": 18860,
-      "averageSpeed": 27
-    },
-    {
-      "day": "Thu 29 Aug",
-      "volume": 19640,
       "averageSpeed": 26
     },
     {
-      "day": "Fri 30 Aug",
+      "day": "Thu 27 Aug",
+      "volume": 19640,
+      "averageSpeed": 27
+    },
+    {
+      "day": "Fri 28 Aug",
       "volume": 20720,
       "averageSpeed": 25
     },
     {
-      "day": "Sat 31 Aug",
+      "day": "Sat 29 Aug",
       "volume": 15310,
       "averageSpeed": 34
     },
     {
-      "day": "Sun 1 Sep",
+      "day": "Sun 30 Aug",
       "volume": 13940,
       "averageSpeed": 34
+    },
+    {
+      "day": "Mon 31 Aug",
+      "volume": 18580,
+      "averageSpeed": 25
+    },
+    {
+      "day": "Tue 1 Sep",
+      "volume": 19220,
+      "averageSpeed": 26
     }
   ],
   "corridors": [

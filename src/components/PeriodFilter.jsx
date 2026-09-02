@@ -3,20 +3,32 @@ import { PERIODS } from '../utils/traffic.js'
 
 export default function PeriodFilter() {
   const { period, setPeriod } = usePeriod()
+
   return (
-    <div className="grid w-full grid-cols-3 gap-1 rounded-xl border border-[#dfe5ed] bg-[#eaf0f7] p-1 sm:flex sm:w-auto" aria-label="Traffic period">
-      {PERIODS.map((item) => (
-        <button
-          key={item.id}
-          type="button"
-          title={item.description}
-          onClick={() => setPeriod(item.id)}
-          className={`whitespace-nowrap rounded-lg px-2.5 py-2 text-[11px] font-medium transition-colors sm:px-3 sm:text-xs ${period === item.id ? 'bg-white text-[#1d4ed8] shadow-sm' : 'text-[#68758a] hover:text-[#172033]'}`}
-          aria-pressed={period === item.id}
-        >
-          {item.label}
-        </button>
-      ))}
+    <div
+      className="glass-segmented inline-flex w-full max-w-full items-center overflow-x-auto no-scrollbar rounded-xl p-0.5 text-xs md:w-auto"
+      role="group"
+      aria-label="Traffic timeframe"
+    >
+      {PERIODS.map((item) => {
+        const isActive = period === item.id
+        return (
+          <button
+            key={item.id}
+            type="button"
+            title={item.description}
+            onClick={() => setPeriod(item.id)}
+            className={`period-pill min-w-fit flex-1 whitespace-nowrap rounded-lg px-2.5 py-1 text-[11px] font-medium sm:px-3 sm:text-xs md:flex-none ${
+              isActive
+                ? 'period-pill-active text-[#0066cc] font-semibold'
+                : 'text-slate-600 hover:-translate-y-px hover:bg-white/60 hover:text-slate-900 active:translate-y-0 active:scale-[0.98]'
+            }`}
+            aria-pressed={isActive}
+          >
+            {item.label}
+          </button>
+        )
+      })}
     </div>
   )
 }
